@@ -1,0 +1,14 @@
+"Cmder": {
+    "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+    ],
+    "env": {
+        "CMDER_ROOT": "${env:USERPROFILE}\\..\\..\\cmder"
+    },
+    "args": [
+        "/K",
+        "%CMDER_ROOT%\\vendor\\bin\\vscode_init.cmd"
+    ],
+    "icon": "cmder",
+},
