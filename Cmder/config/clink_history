@@ -1,0 +1,6521 @@
+|CTAG_1728962805_2192171_5008_0
+ssh-keygen -t dsa
+|s
+|at C:\Users\Tanio\.ssh\id_dsa.pub 
+gj
+git
+cat C:\Users\Tanio\.ssh\id_dsa.pub 
+ssh-keygen -t rsa
+|at C:\Users\Tanio\.ssh\id_rsa.pub 
+cd Documents
+|kdir projects
+|s
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/redemptions
+|s
+|d projects\
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/redemptions
+|s
+cat C:\Users\Tanio\.ssh\id_rsa.pub 
+|it clone git@github.com:DotzInc/platform-card-issuances.git
+|s
+|s
+|d ..
+|s
+|m -rf redemptions\
+|s
+|d projects\
+|s
+|inbox
+winbox
+|link update
+|d source\repos\
+|s
+git clone git@github.com:DotzInc/platform-card-issuances.git
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/redemptions
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/partners-integration
+|s
+|it clone git@github.com:DotzInc/platform-card-applications.git
+|s
+|link update
+|s
+|d source\repos\
+|s
+git clone git@github.com:DotzInc/techfin-smartpay.git
+|s
+rm -rf redemptions\
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/redemptions
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/accounts
+|it status
+terraform
+terraform --version
+|s
+|ubectl
+|d ..
+|d ..
+|d Documents\
+|s
+rm -rf projects\
+|s
+mkdir projects
+|s
+curl.exe -LO "https://dl.k8s.io/release/v1.31.0/bin/windows/amd64/kubectl.exe
+|ubectl
+|url.exe -LO "https://dl.k8s.io/release/v1.31.0/bin/windows/amd64/kubectl.exe"
+|url.exe -LO "https://dl.k8s.io/release/v1.31.0/bin/windows/amd64/kubectl.exe"
+|ubectl --version
+|cloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+|cloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+|cloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+|cloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+gcloud install gke-gcloud-auth-plugin
+|cloud components install gke-gcloud-auth-plugin
+|cloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+gcloud container clusters get-credentials cluster-uat --zone southamerica-east1-a --project dotz-uat
+gcloud container clusters get-credentials develop --region us-central1 --project dotz-dev-219021
+|ubectl config get-contexts
+|ubectl config get-contexts
+kubectl get pods
+curl.exe -LO "https://dl.k8s.io/release/v1.31.0/bin/windows/amd64/kubectl.exe"
+kubectl
+|ubectl get pods -n cobranding
+|ubectl get pods -n cobranding
+|ubectl config get-contexts
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat
+|ubectl get pods -n cobranding
+|d source\repos\
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/members
+|s
+git clone git@github.com:DotzInc/platform-customers
+|s
+|d source\repos\redemptions\
+git checkout feature/110444
+|it checkout feature/156731
+|it status
+|it pull
+|ode .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/cobranding
+|s
+|d redemptions\
+|it status
+|it status
+|d ..
+|d ..
+cd repos\
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/worker_005_processamento_fila_catalogo
+cd worker_005_processamento_fila_catalogo\r
+|d worker_005_processamento_fila_catalogo\
+|ode .
+|ode .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/gf-business
+|d gf-business\
+|ode .
+|S
+|s
+|d ..
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/worker_020_IndexadorProdutos
+|ode .
+|d worker_005_processamento_fila_catalogo\
+|it status
+|d ..
+|d worker_020_IndexadorProdutos\
+|ode .
+|s
+|s
+|ubectl get pods -n cobranding
+|s
+|s
+|d Documents\projects\r
+|s
+cd Documents\projects\]
+|d Documents\projects\
+|s
+|d Documents\projects\
+git clone git@github.com:taniorocha/taniorocha.git
+|ode .
+|d taniorocha\
+|ode .
+|it status
+|it add .
+|it commit -m "Adding content"
+|it config user.email "hortanio@gmail.com"
+|it config user.name "taniorocha"
+|it push
+|it status
+|it commit -m "Adding content"
+|it push
+|its tatus
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it status
+|it add .
+|it commit -m "Adding content"
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+node
+|d ..
+mkdir temp-node-bot
+|d temp-node-bot\
+|ode .
+|ode index.js
+|d Documents\projects\
+|s
+|d taniorocha\
+|it status
+|d ..
+|d temp-node-bot\
+|it status
+|ode index.js
+|ode index.js
+|ode index.js
+|ode index.js
+|ode index.js
+|d ..
+|s
+cd taniorocha\
+|it status
+|it add .
+|it commit -m "Adding content"
+|itp ush
+|it push
+|it status
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it push
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it push
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it add .
+|it push
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+|it commit -m "Adding content"
+|it push
+|it add .
+git commit -m "Adding content"
+|it push
+|ubectl get pods -n cobranding
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding bash
+kubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding | bash
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding bash
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+kubectl exec -iit cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+kubectl exec --it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+kubectl exec -it cobranding-api-default-58454b6b68-mpj6g --sh
+kubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding --sh
+|ubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+|ubectl get pods -n cobranding
+kubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding sh
+kubectl exec -it cobranding-api-default-58454b6b68-mpj6g -n cobranding bash
+|ubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- cat $GOOGLE_APPLICATION_CREDENTIALS
+kubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- LS
+kubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- ls
+kubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- 'cat $GOOGLE_APPLICATION_CREDENTIALS'
+|ubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- cat $GOOGLE_APPLICATION_CREDENTIALS
+kubectl exec cobranding-api-default-58454b6b68-mpj6g -n cobranding -- cat $GOOGLE_APPLICATION_CREDENTIALS
+|d source\repos\redemptions\
+|it status
+|d ..
+|d ..
+|d ..
+|d ..
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/gf-supplier-integration
+|d source\repos\redemptions\
+|s
+|d Users\
+|d Tanio\
+|s
+|d source\repos\
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/gf-hub
+|d gf-hub\
+|it status
+|ode .
+|it status
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/Dominio
+|d Dominio\
+|d ..
+|d redemptions\
+|ode .
+|it status
+|it add .
+|it commit -m "Adicionando rotinas para tratamento dos pedidos magalu"
+|it push
+|it status
+|it status
+|it status
+|it status
+|it status
+|it add .
+git commit -m "Adicionando rotinas para tratamento dos pedidos magalu"
+|it push
+|it status
+|it status
+|it status
+|it status
+|it status
+|d ..c
+| ..
+|d ..
+|d ..
+cd ls
+|s
+|d ..
+|d Documents\projects\
+|s
+rm -rf taniorocha\
+|d ..
+|d ..
+|d source\repos\
+|s
+|d redemptions\
+|it status
+|d ..
+|s
+|d platform-card-applications\
+|ode .
+|d ..
+|it clone git@github.com:DotzInc/core-promo-draws.git
+|d core-promo-draws\
+|s
+|it checkout feature/160400
+|ode .
+python -m venv .venv
+|y -m venv .venv
+|y
+|d source\repos\
+|s
+|d core-promo-draws\
+|it status
+|link update
+|ocker ps
+|d source\repos\
+|s
+|d core-promo-draws\
+|y -m venv .venv
+|s
+|it status
+|it status
+|d source\repos\core-promo-draws\
+|it status
+wsl --update
+|ocker ps
+docker
+|ocker ps
+|d source\repos\core-promo-draws\
+|y -m venv .venv
+|s
+|s
+|ode .
+|venv\Scripts\activate.bat
+pip install -r requirements
+|ip install -r requirements.txt
+|ip install -r migration\requirements.txt
+|ip install -r migration\requirements.txt
+|ip install -r migration\requirements.txt
+|ip install psycopg2-binary
+pip install psycopg2-binary:2.9.9
+|ip install psycopg2-binary==2.9.9
+|ip install psycopg2-binary==2.9.9
+|d source\repos\
+|d platform-card-applications\
+|ode .
+py --verions
+|y --version
+pip uninstall psycopg2
+|ip install -r requirements.txt
+pip install -r alembic/requirements.txt
+pip install -r migration/requirements.txt
+|d ..
+|s
+|it status
+|d source\repos\platform-card-applications\
+|ode .
+docker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_PASSWORD=testgres -d --rm --name testgres postgres:14
+|d source\repos\core-promo-draws\
+|ip install psycopg2-binary==2.9.9
+|ip install psycopg2
+sudo apt install libpq-dev python3-dev
+apt install libpq-dev python3-dev
+|ip install psycopg2-binary
+brew install postgresql
+pip install --upgrade pip
+|ip install psycopg2-binary
+|y -m venv .venv
+|venv\Scripts\activate.bat
+|ip install psycopg2-binary
+|y --version
+|venv\Scripts\deactivate.bat
+|m -rf .venv\
+python3.12
+pip3
+py3
+|y -m venv .venv
+|ip3 install psycopg2
+|venv\Scripts\activate.bat
+pip3 install psycopg2
+python3.12 -m venv
+|ip install psycopg2
+pip install psycopg2-binary --no-cache-dir
+|ip install -r migration\requirements.txt
+|ip install -r migration\requirements.txt --no-cache-dir
+|ip install -r migration\requirements.txt --no-cache-dir
+|ip install psycopg2==2.9.9
+pip install psycopg2==2.9.9
+|ip install psycopg2
+|ip install psycopg2
+|ip install psycopg2
+|ip install psycopg2
+|ip install psycopg2
+|s
+|ip install psycopg2
+|venv .env install install-hook
+install-hook install-code-ext
+cp .env.template .env
+|lembic revision -m "criacao-primeira-tabela" 
+pip install -r migration\requirements.txt --no-cache-dir
+pip install psycopg2-binary==2.9.9
+pip install alembic==1.13.3
+pip install python-dotenv==1.0.1
+alembic revision -m "criacao-primeira-tabela" 
+|ake install-migration
+|ake install-migration
+if [ -f migration/requirements.txt ]; then $(VIRTUALENV)/bin/pip install -r migration/requirements.txt; fi
+winget install GnuWin32.Make
+|d source\repos\core-promo-draws\
+.venv .env install install-hook
+|venv\Scripts\activate.bat
+|ake install-migration
+|ake install-migration
+|ake install-migration
+|y --version
+|ake install-migration
+|venv\Scripts\deactivate.bat
+|ake .venv
+|ake install-migration
+make .venv
+|y -m venv ./migration/.venv
+|ake install-migration
+|y --version
+|d source\repos\core-promo-draws\
+|d ..
+|s
+|d techfin-smartpay\
+|ode .
+|d ..
+|s
+|d core-promo-draws\
+|it status
+|it status
+|it status
+|it add .
+|it status
+|it commit -m "Adicionando migrations para estrutura inicial"
+git config user.name "taniorocha"
+|it config user.email "hortanio@gmail.com"
+|it push
+|it commit -m "Adicionando migrations para estrutura inicial"
+|it push
+git stautws
+|it status
+|it add .
+git commit -m "Adicionando migrations para estrutura inicial"
+|it push
+|s
+|d migration\
+|
+|s
+|d alembic\
+|s
+cd versions\
+|s
+|d ..
+|s
+|d ..
+|s
+|s
+|ode .
+|d ..
+|ode .
+|it status
+|d ..
+|d platform-card-applications\
+|it status
+|ode .
+|venv\Scripts\activate.bat
+|s
+|venv\Scripts\activate.bat
+|ode .
+|venv\Scripts\activate.bat
+|venv\Scripts\deactivate.bat
+|ode .
+|venv\Scripts\deactivate.bat
+|xplorer .venv
+explorer .venv
+|y -m venv .venv
+|ode .
+|d ..
+rm -rf platform-card-applications\
+git clone https://github.com/DotzInc/platform-card-applications
+git clone git@github.com:DotzInc/platform-card-applications.git
+|d platform-card-applications\
+|s
+|ode .
+|y -m venv /.venv
+|ode .
+|s
+|y -m venv /.venv
+|s
+|s -a
+|xplorer .
+py -m venv ./.venv
+|s
+|s
+|s -a
+|s
+|ode .
+|s
+excit
+|s
+|d source\repos\
+|s
+|d platform-card-applications\
+|s
+|wl -d ubuntu
+|sl -d ubuntu
+|s
+|s
+|s
+|s -a
+|s
+rm -rf .venv\
+|s
+|s -a
+|it stauts
+|it status
+|it status
+|s
+|s -a
+|s
+|ode .
+|ode .
+|y -m venv .venv
+|s -a
+|y -m venv /.venv
+|s -a
+|s
+|s
+|ode .
+|m -rf .venv
+|s
+|s
+|s -a
+|it status
+py -m venv /.venv
+|y -m venv .venv
+|s -a
+|s .venv\
+|s
+|ode .
+|ocker ps
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\activate.bat
+|vicorn src.main:app --reload --env-file .env
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+|it staus
+|ip install -r requirements.txt
+|ip install psycopg2
+|ip install psycopg2-binary
+|ode .
+|ip install -r requirements.txt
+|venv\Scripts\deactivate.bat
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\activate.bat
+|vicorn src.main:app --reload --env-file .env
+|ode .
+pip install dotenv
+|vicorn src.main:app --reload --env-file .env
+pip install python-dotenv
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\deactivate.bat
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\activate.bat
+|vicorn src.main:app --reload --env-file .env
+|et PYTHONPATH=./src
+|vicorn src.main:app --reload --env-file .env
+|s
+|ip install -r requirements-dev.txt
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app --reload --env-file .env
+|lack --line-length=100 --target-version=py311 --check .
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude .venv
+|et DATABASE_URL=postgresql+psycopg2://postgres:testgres@postgres:5432/postgres
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app_private --reload --env-file .env --port 8001
+set LOG_LEVEL=debug
+|vicorn src.main:app_private --reload --env-file .env --port 8001
+set LOG_LEVEL=critical
+uvicorn src.main:app_private --reload --env-file .env --port 8001
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app --reload --env-file .env
+sam --version
+|vicorn src.main:app --reload --env-file .env
+|vicorn src.main:app --reload --env-file .env
+|d source\repos\core-promo-draws\
+|d ..
+|d platform-card-applications\
+|s
+|venv\Scripts\activate.bat
+|ip install psycopg2
+|ip install psycopg2-binary
+pip install psycopg2-binary
+|sl -d ubuntu
+|vicorn src.main:app --reload --env-file .env
+deactivate
+|m -rf .venv
+cd source\repos\platform-card-applications\0
+|d source\repos\platform-card-applications\
+|s
+ls .venv\
+|ython --version
+|y -m venv .venv
+|s
+|s -a
+|venv\Scripts\activate.bat
+|ake install-dev
+|ake install-dev
+pip install psycopg2
+make install-dev
+|ip install -r requirements-dev.txt
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+|vicorn src.main:app --reload --env-file .env
+|lembic revision -m "teste"
+|lembic upgrade head
+|et PYTHONPATH=./src
+alembic upgrade head
+|ython --version
+py
+|ython --version
+|d source\repos\platform-card-applications\
+|s
+|s -a
+|m -rf .venv
+|it status
+rm Makefile
+|s
+|it checkout .
+|it status
+rm migrations/versions/02733a02a738_teste.py
+|it status
+|y -m venv .venv
+|s
+|s
+|s -a
+|ode .
+|s
+|venv\Scripts\activate.bat
+|vicorn src.main:app --reload --env-file .env
+|ip install -r requirements.txt
+|venv\Scripts\deactivate.bat
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\activate.bat
+|vicorn src.main:app --reload --env-file .env
+pip install -r requirements-dev.txt
+|vicorn src.main:app --reload --env-file .env
+|et PYTHONPATH=./src
+|et DATABASE_URL=postgresql+psycopg2://postgres:testgres@postgres:5432/postgres
+set PYTHONPATH=./src
+set DATABASE_URL=postgresql+psycopg2://postgres:testgres@postgres:5432/postgres
+|vicorn src.main:app --reload --env-file .env
+|venv\Scripts\deactivate.bat
+uvi
+uvicorn src.main:app --reload --env-file .env
+|d ..
+|s
+sam
+|s
+|ls
+|s
+|d core-promo-draws\
+|ode .
+|ocker ps
+|y -m venv .venv
+|m -rf .venv
+|s
+|d migration\
+|s
+|s
+|s -a
+.venv\Scripts\activate.bat
+|s
+|d ..
+|ake create-migration m="teste"
+/migration/.venv/bin/alembic revision -m "teste"
+|s
+cd /migration/.venv
+|d ..
+|s
+|s
+|xplorer .
+|d ..
+cd Users\
+|d Tanio\
+|d source\repos\core-promo-draws\
+|ake create-migration m="teste"
+migration\.venv\bin\alembic -m "teste"
+|d migration\
+|s
+|lembic
+cd alembic\
+|s
+|d ..
+|s
+|s
+|s -a
+.venv\bin\activate
+.venv\bin\activate.bat
+ls .venv\bin
+|s
+|s -a
+cd .venv\bin
+|s
+alembic
+|lembic --version
+|d ..
+activate.ps12
+activate.ps1
+|s
+|ake install-migration
+|d ..
+|d ..
+|d ..
+|d core-promo-draws\
+make install-migration
+|ake create-migration m="teste"
+|ake create-migration m="teste"
+|ake create-migration m="teste"
+py -m venv ./migration/.venv
+|igration\.venv\Scripts\activate.bat
+pip install -r migration\requirements.txt
+migration\.venv\Scripts\deactivate.bat
+|lembic --version
+migration\.venv\Scripts\activate.bat
+alembic --version
+make create-migration m="teste"
+|lembic revision -m "teste"
+|d migration\
+alembic revision -m "teste"
+|venv\bin\deactivate.bat
+|d ..
+|venv\bin\deactivate.bat
+|s
+|s -a
+cd migration\
+|s
+ls -a
+.venv\bin\deactivate.bat
+.venv\Scripts\deactivate.bat
+|m -rf .venv
+|s
+|s
+|it status
+|it checkout .
+|d ..
+|s
+|d ..
+|s
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d temp-node-bot\
+|ode .
+|pm start
+|ode index.js
+|ode index.js
+npm init
+|pm init -y
+npm install puppeteer
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|it status
+|d Documents\projects\temp-node-bot\
+npm star
+|pm start
+|d source\repos\core-promo-draws\
+|ode .
+|ubectl get pods -n super-app
+kubectl logs superapp-api-default-56b48f66d5-b8m72 -n super-app
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/super-app
+|it status
+|d super-app\
+git checkout 160400
+|it checkout feature/160400
+|it pull
+|it statu
+|it status
+|it status
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+|it status
+|d ..
+|d core-promo-draws\
+|it status
+|it add .
+|it status
+git commit -m "Ajuste nome da tabela campaign"
+|it status
+|it push
+|ode .
+|ode .
+|sl -d ubuntu
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/rewards
+kubectl get pods -n rewards\
+|ubectl get pods -n rewards
+|d ..
+cdc .
+|d ..
+|d Documents\projects\
+|s
+mkdir corno-service
+cd corno-service\
+|ode .
+curl -I https://uat.dotznext.com/rewards/api/default/categories?page=0&pagesize=10000&fields=Client+Id%7CName%7CHasChildren%7CMobileHighlightHome%7CMobileHighlightCategory%7CMobileIcon%7CVisible%7CMobileVisible&query=%2Fsitecore%2Fcontent%2FSite%2FConfigurations%2FLists%2FProduto%2FNovas+categorias%2F*
+curl -I https://uat.dotznext.com/rewards/api/default/categories?page=0&pagesize=10000&fields=Client+Id%7CName%7CHasChildren%7CMobileHighlightHome%7CMobileHighlightCategory%7CMobileIcon%7CVisible%7CMobileVisible&query=%2Fsitecore%2Fcontent%2FSite%2FConfigurations%2FLists%2FProduto%2FNovas+categorias%2F* --ssl
+|ubectl get pods -n rewards
+curl https://qa.dotz.com.br/
+|d ..
+|d ..
+|d ..
+|d source\repos\
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/sitecore-mapper
+|d redemptions\
+|ode .
+|ode .
+|it status
+|it status
+|it status
+|it add .
+|it add .
+|it status
+|it commit -m "Correção de testes unitários"
+|it push
+|it status
+|it add 
+|it add .
+|it status
+|it status
+|it commit -m "Correção de smells"
+|it push
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it status
+|it push
+|it status
+cd Documents\projects\temp-node-bot\
+|pm start
+|d source\repos\
+|d super-app\
+|it status
+|it pull
+|d ..
+cd git status
+cd core-promo-draws\]
+|d core-promo-draws\
+|it pull
+|d ..
+|d core-promo-draws\
+|it pul
+|it pull
+|d ..
+|d techfin-smartpay\
+|ode .
+|it pull
+|d ..
+|d core-promo-draws\
+|it pull
+|it status
+|d ..
+|d core-promo-draws\
+|it status
+|it add .
+|d ..
+cd super-app\
+|it status
+|it add .
+|it commit -m "Adicionando extensão para mapeamento de erro promodraws"
+|it config user.email "hortanio@gmail.com"
+|it config user.email "hortanio.silva@dotzmkt.com.br"
+|it config user.name "hortanio.silva"
+|it push
+|it status
+git commit -m "Adicionando extensão para mapeamento de erro promodraws"
+|it push
+|it status
+|d ..
+|d core-promo-draws\
+|ode .
+|ode .
+|it status
+|it status
+|it status
+|it pull
+|it staus
+|it status
+|it add .
+git commit -m "Adicionando estrutura de testes unitários"
+|it push
+|d ..
+|d redemptions\
+|ode .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/deposits
+|d deposits\
+|ode .
+|ode .
+|s
+|d source\repos\
+|d core-promo-draws\
+|it status
+|it pull
+|ode .
+|it stauts
+|it status
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/risk-gateway
+|it status
+|d core-promo-draws\
+|it status
+|it add .
+|it status
+|it commit -m "Correção de colunas nullable"
+|it status
+|it push
+|it pull
+|d source\repos\core-promo-draws\
+|it status
+|it push
+|it pull
+|it checkout .
+|it status
+|it status
+|it checkout .
+|it status
+|d ..
+|m -rf core-promo-draws\
+|m -rf core-promo-draws\
+|it clone git@github.com:DotzInc/core-promo-draws.git
+|d core-promo-draws\
+|ode .
+|it checkout feature/160400
+|it status
+|it add .
+|it commit -m "Correção de colunas nullable"
+|it config user.name "hortanio.silva"
+|it config user.name "hortaniorocha"
+|it config user.email "hortanio@gmail.com"
+|it push
+git commit -m "Correção de colunas nullable"
+|it push
+|it status
+|it status
+|it pull
+|it add .
+git commit -m "Correção de testes"
+|it push
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d node-active-invest\
+|pm start
+|d ..
+d d..
+|d ..
+cd source\repos\members\
+|it pull
+|d ..
+|d core-promo-draws\
+|it status
+|it pull
+|ode .
+|s
+|otnet run
+cd CorePromoDraws.API.Private\
+|otnet run
+|it status
+|d ..
+|d ..
+rm -rf core-promo-draws\
+git clone git@github.com:DotzInc/core-promo-draws.git
+|d core-promo-draws\
+|it pull
+|it checkout feature/160400
+|xplorer .
+|ode .
+|ython --version
+wsl -d ubuntu --version
+|ake
+|d source\repos\platform-card-applications\
+|ode .
+|ocker ps
+docker stop 
+docker stop a6409510f570
+docker rm a6409510f570
+|ocker ps -a
+docker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_PASSWORD=platform_promo_draws -d --rm --name testgres postgres:14
+|ocker ps
+|ocker ps -a
+docker stop 7201a6cd5dbf
+|ocker ps -a
+docker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_USER=platform_promo_draws POSTGRES_PASSWORD=platform_promo_draws -d --rm --name testgres postgres:14
+|ocker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_USER=platform_promo_draws -e POSTGRES_PASSWORD=platform_promo_draws -d --rm --name testgres postgres:14
+|d source\repos\platform-card-applications\
+|d ..
+|d core-promo-draws\
+|it status
+|it status
+|it pull
+|it status
+|it add .
+|it commit -m "Correção de migration"
+|it config user.email "hortanio@gmail.com"
+|it config user.name "hortaniorocha"
+git commit -m "Correção de migration"
+|it push
+|it status
+|ode .
+|it status
+|ode .
+|ubectl get pods -n super-app
+kubectl exec superapp-api-default-bf4d794b6-4hq4r -n super-app -- cat $GOOGLE_APPLICATION_CREDENTIALS
+|ubectl get pods -n super-app
+|ubectl exec superapp-api-default-bf4d794b6-4hq4r -n super-app -- env | grep URL_API_PROMO_DRAWS
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+kubectl exec superapp-api-default-bf4d794b6-f5zcd -n super-app -- env | grep URL_API_PROMO_DRAWS
+kubectl exec superapp-api-default-bf4d794b6-4hq4r -n super-app -- env | grep URL_API_PROMO_DRAWS
+kubectl delete pods --all -n super-app
+kubectl get pods -n super-app
+kubectl exec superapp-api-default-bf4d794b6-s6wrk -n super-app -- env | grep URL_API_PROMO_DRAWS
+|d source\repos\
+|s
+|d core-promo-draws\
+|s
+|s
+|udo docker ps
+docekr ps
+|ocker ps
+make migrate-dev args="downgrade 1"
+|wl -d ubuntu
+|sl -d ubuntu
+swl -d ubuntu
+|sl -d ubuntu
+|ubectl get pods -n super-app
+kubectl exec superapp-api-default-bf4d794b6-s6wrk -n super-app -- env | grep URL_API_PROMO_DRAWS
+|ubectl get pods -n super-app
+sudo docker ps
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+|ubectl exec superapp-api-default-766777444-7kvsn -n super-app -- env | grep URL_API_PROMO_DRAWS
+|ubectl exec superapp-api-default-766777444-7kvsn -n super-app -- env | grep URL_API_PROMO_DRAWS
+kubectl exec superapp-api-default-766777444-7kvsn -n super-app -- env | grep URL_API_PROMO_DRAWS
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+|ubectl get pods -n super-app
+kubectl get pods -n super-app
+kubectl exec superapp-api-default-bf4d794b6-h7wmx -n super-app -- env | grep URL_API_PROMO_DRAWS
+git sttatus
+git statuws
+|it status
+|it status
+|it checkout .
+|it status
+|it pull
+|it checkout develop
+|it status
+|it pull
+|it push
+|it checkout feature/160400
+|it merge develop
+|it status
+|d source\repos\
+|d core-promo-draws\
+|it status
+|it checkout staging
+|it pull
+|it checkout develop
+|it checkout feature/160400
+|it merge staging
+|it status
+|it add .
+|it status
+|it add .
+|it commit -m "Correção de conflitos de merge"
+|it push
+|it checkout staging
+|it pull
+|it checkout develop
+|it pull
+|it checkout feature/160400
+|it pull
+|it merge staging
+|it merge develop
+|d source\repos\core-promo-draws\
+|it merge develop
+|it pull
+|it checkout .
+|it merge develop
+git reset --merge
+|it pull
+|it merge develop
+|it checkout develop
+|d source\repos\core-promo-draws\
+|it status
+|it status
+|it add .
+|it status
+|it statsu
+|it status
+|it checkout .
+|it merge develop
+git merge --ab
+|it merge --abort
+|it merge develop
+|d source\repos\core-promo-draws\
+|s
+|xplorer .
+|it merge develop
+|it merge --abort
+|it merge develop
+|d source\repos\core-promo-draws\
+|it pull --rebase
+|it pull --rebase
+|it merge --abort
+|it pull --rebase
+|it merge --abort
+|it merge develop
+|d source\repos\core-promo-draws\
+|it pull --no-edit
+|it merge --abort
+|it pull --no-edit
+|it checkout develop
+git pull --no-edit
+|it pull --rebase
+|it checkout staging
+|it pull --rebase
+|it checkout feature/160400
+|it merge staging
+|it pull
+|it push
+|it merge develop
+|it merge develop
+|d source\repos\core-promo-draws\
+|it merge develop
+|it merge --abort
+|it merge develop
+|d source\repos\core-promo-draws\
+|it merge develop
+git commit -m "Correção de conflitos de merge"
+|it push
+git pull --rebase
+|it merge develop
+git pull origin staging
+|it checkout develop
+|it merge staging
+git satus
+|it status
+|it status
+|it status
+|it add .
+|it commit -m "merge"
+|it push
+|it checkout feature/160400
+git merge staging
+|it pull
+git checkout merge
+|it checkout staging
+|it checkout feature/160400
+|it checkout feature/160400
+|it pull
+|it status
+|it add .
+git commit -m "Correção do contrato de detalhes das missões" 
+|it push
+|it status
+|it pull
+|ode .
+|it pull
+|it status
+|it add .
+|it commit -m "Correção de migrations"
+|it push
+|it statsu
+|it status
+|it add .
+|it commit -m "Correção de migrations"
+|it push
+|it pull
+|d Documents\projects\
+|d node-active-invest\
+|pm start
+|d source\repos\core-promo-draws\
+|it pull
+|it status
+|it commit -m "Correção de migrations"
+|it push
+|it status
+|it pull
+|it pull
+|it add .
+|it status
+|it commit -m "Correção de migrations"
+|it push
+|it status
+|it add .
+|it commit -m "Correção de migrations"
+|it push
+|it status
+|it pull
+|it pull
+|it pull
+|it stauts
+|it status
+|it pull
+|it pull
+git checkout origin/stagin
+git checkout origin/staging
+|it checkout feature/160400
+|it pull
+|it checkout staging
+git checkout origin/develop
+|it checkout feature/160400
+|d ..
+|s
+cd members\
+git checkout origin/master
+|it checkout master
+|d ..
+|d core-promo-draws\
+|it status
+|d ..
+|it status
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/Worker_004_Processamento_Carga
+cd source\repos\techfin-smartpay\
+|it branch -r
+|it branch
+|it branch -r
+|d ..
+|d redemptions\
+|it branch -r
+|d source\repos\
+|d cobranding\
+|it branch -r
+|d source\repos\platform-card-applications\
+git branch -r
+|it branch
+git remote show origin
+|it pull
+|xi
+|d source\repos\
+|s
+|d gf-business\
+|s
+|s
+|s
+|ode .
+|d ..
+|s
+|d Worker_004_Processamento_Carga\
+|ode .
+|d ..
+|d worker_005_processamento_fila_catalogo\
+|ode .
+|d ..
+|d Worker_004_Processamento_Carga\
+|ode .
+|d ..
+|d worker_005_processamento_fila_catalogo\
+|ode .
+|d ..
+|d core-promo-draws\
+|ode .
+|d ..
+|d techfin-smartpay\
+|ode .
+|it status
+|it status
+cd ...
+|d ..
+|d core-promo-draws\
+|it pull staging origin
+git checkout staging
+|it pull staging origin
+git pull staging origin
+|it status
+git branch list
+|it branch
+|it branch -r
+|it branch -r
+|it branch
+git fetnch
+|it fetch
+|it pull
+|it pull
+|it checkout feature/160400
+|it pull
+|it fetch
+|it status
+|it fetch
+git branch -r
+|it push
+|pconfig
+Documents\projects\node-active-invest\
+|pm start
+|s
+|s
+|d Documents\projects\
+|s
+|d ..
+|d ..
+|d ..
+|d Tanio\
+|s
+|d source\repos\
+|s
+|d worker_20
+|d ..
+|d ..
+|d Documents\projects\Worker20\
+|s
+|s
+|orker_020_IndexadorProdutos.exe -all
+|d Documents\projects
+mkdir jenkins
+|d jenkins\
+docker run -p 8080:8080 -p 50000:50000 -v ./home:/var/jenkins_home jenkins/jenkins
+|link update
+cd Documents\
+|s
+cd DOCS-DOTZ\
+|s
+cd WORKS\
+|s
+cd "SuperApp 2\
+|s
+mkdir US156731
+cd us156731
+las
+|s
+mkdir evidencias
+|xplorer .
+|d ..
+|d ..
+|d ..
+|d ..
+|d ..
+|d source\repos\
+|s
+|d core-promo-draws\
+|s
+|it pull
+|it checkout .
+|it pull
+|ocker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_USER=platform_promo_draws -e POSTGRES_PASSWORD=platform_promo_draws -d --rm --name testgres postgres:14
+|ode .
+|s
+|sl -d ubuntu
+|it pull
+|it pull
+|sl -d ubuntu
+|it status
+|it pull
+|it status
+|it add .
+git commit -m "Migration: setando updated_at para atualização em todas as tabelas e criação de coluna raffle.winner_name"
+|it push
+|it status
+|ocker ps
+|it pull
+|ubectl get pods -n cobranding
+|ubectl get pods -n cobranding
+kubectl exec -it cobranding-api-default-586c8ddcb9-5njcv -n cobranding -- env | grep BB_MOCKS
+|ode .
+|it pull
+|it fetch
+|it status
+|it status
+|it status
+|ocker run -d -p 8080:8080 -p 50000:50000 jenkins
+docker run -d -p 8080:8080 -p 50000:50000 jenkins
+|ocker ps
+docker run -p 8080:8080 -p 50000:50000 jenkins
+|d ..
+|d cobranding\
+|it status
+|ode .
+|ocker ps
+|ocker ps -a
+kubectl exec -it cobranding-api-default-586c8ddcb9-hf6gd -n cobranding -- env | grep RECAPTCHA
+kubectl get pods -n accounts
+kubectl exec -it accounts-api-default-7468d77bd8-cvv6c -n accounts -- env | grep RECAPTCHA
+kubectl get pods -n cobranding
+kubectl exec -it cobranding-api-default-7c457986d8-hp7t5 -n cobranding -- env | grep RECAPTCHA
+|d..
+cd  core-promo-draws\
+|ode .
+|ocker ps
+docker stop 0ed2b690563f
+docker rm 0ed2b690563f
+|d ..
+|d ..
+|d ..
+|d Documents\projects\r
+|d Documents\projects\
+|s
+mkdir node-test
+|d node-test\
+|ode .
+|ode --experimental-strip-types index.ts
+|ode --version
+node --version
+|ode --experimental-strip-types index.ts
+|ode --experimental-strip-types index.ts
+|ode --experimental-strip-types index.ts
+|cd ..
+|d ..
+|d ..
+|d ..
+|d source\repos\
+|d core-promo-draws\
+|it status
+|it add .
+|it status
+|it commit -m "Correção dos workers para processamento dos eventos e tickets"
+|it status
+|it push
+|it pull
+|ocker ps
+|ocker ps -a
+cd Documents\projects\jenkins\
+|s
+|s
+|ocker run -d -p 8080:8080 -p 50000:50000 -v ./home:/var/jenkins_home jenkins/jenkins
+|ocker ps
+docker logs 9ed99606b82c -f
+docker exec -it 9ed99606b82c bash
+docker volume ls
+|s
+|ocker ps
+docker stop rm 
+docker stop rm 9ed99606b82c
+docker stop 9ed99606b82c
+docker rm 9ed99606b82c
+|ocker ps
+docker run -d -p 8080:8080 -p 50000:50000 -v /jenkins_home:/var/jenkins_home jenkins/jenkins
+|s
+docker run -d -p 8080:8080 -p 50000:50000 -v /teste/jenkins_home:/var/jenkins_home jenkins/jenkins
+docker run -d -p 8080:8080 -p 50000:50000 -v ./teste/jenkins_home:/var/jenkins_home jenkins/jenkins
+docker run -d -p 8080:8080 -p 50000:50000 -v ./teste/jenkins:/var/jenkins_home jenkins/jenkins
+docker run -d -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenkins_home jenkins/jenkins
+docker run -d -p 8080:8080 -p 50000:50000 -v ./your/home:/var/jenkins_home jenkins/jenkins
+docker run -d -p 8080:8080 -p 50000:50000 -v ./home:/var/jenkins_home jenkins/jenkins
+|ocker ps
+|ocker exec -it 0ed2b690563f bash
+docker exec -it 0ed2b690563f bash
+|d source\repos\core-promo-draws\
+|it status
+|it fetch
+|ode .
+|it status
+|it add .
+|it add .
+|it status
+git commit -m "Correção dos workers para processamento dos eventos e tickets"
+|it push
+|it status
+|it checkout develop
+|it pull
+|it fetch
+|it pull
+|it status
+|it checkout feature/160400
+|it checkout .
+|it checkout .
+git checkout feature/160400
+|it merge develop
+|it status
+|it add .
+|it status
+|it commit -m "Merge develop"
+|it push
+|it status
+|it add .
+git commit -m "Merge develop"
+|it status
+|it stauts
+|it status
+|it push
+|d ..
+|d ..
+|d ..
+cd Documents\projects\r
+|d Documents\projects\
+|s
+|d node-test\
+|s
+node index.js
+|ode --experimental-strip-types index.ts
+|ode .
+|ode --experimental-strip-types index.ts
+|ode --experimental-strip-types index.ts
+node --experimental-strip-types index.ts
+|pm init -y
+|d ..
+git clone git@github.com:taniorocha/node-ty-natively.git
+cd node-test\
+|ode .
+cp index.ts, package.json, package-lock.json ..\node-ty-natively\
+cp *.json ..\node-ty-natively\*.json
+cp *.json ..\node-ty-natively\
+cp index.ts ..\node-ty-natively\
+|d ..
+|d node-ty-natively\
+|it status
+|ode .
+|pm install
+|pm start
+|it status
+|it add .
+|it commit -m "Adding test code"
+|it config user.name "hortaniorocha"
+|it config user.email "hortanio@gmail.com"
+git commit -m "Adding test code"
+|it push
+|it status
+|it add .
+|it status
+|it add .
+|it status
+git commit -m "Adding Readme"
+|it push
+|pm start
+|pm start
+|pm start
+|it status
+|it add .
+git commit -m "Smell correction"
+|it push
+|it status
+|d ..
+|d ..
+|d ..
+|d source\repos\
+|s
+|d core-promo-draws\
+|it pull
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d temp-node-bot\
+|ode .
+|pm start
+|d ..
+git clone git@github.com:Tuzzie/tuzzie-store-ui.git
+cd tuzzie-store-ui\
+|ode .
+|ode .
+|d ..
+rm -rf tuzzie-store-ui\
+|it status
+|s
+|it status
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/ecommerce
+rm -rf ecommerce\
+|d ..
+|d ..
+|d ..
+cd Tanio\source\repos\
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/ecommerce
+git clone https://dotzmkt.visualstudio.com/Dotz/_git/offers-calculator
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/offers-calculator
+cd ecommerce\
+|ode .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/store-locator
+|d store-locator\
+|it pull
+git checkout hotfix/160490
+|d ..
+|d offers-calculator\
+|it pull
+|it checkout hotfix/160490 
+|d ..
+|d store-locator\
+|ode .
+v
+|ubectl port-forward redis-0 6379:6379
+|it status
+|it add .
+git status"
+git commit -m "Atualização de versão dharmas e .net e correção de smells"
+|it push
+|it status
+|it add .
+git commit -m "Criação de casca de api private"
+|it push
+|d ..
+|d redemptions\
+|it status
+|ubectl port-forward redis-0 6379:6379
+|it status
+|d ..
+|d store-locator\
+|it status
+|it add .
+git commit -m "Adicionando estrutura da api Private e rotina para corrigir as tags das lojas"
+|it status
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|d ..
+|d offers-calculator\
+|it status
+|it commit -m "Adicionando integração com API store-locator private"
+git config  user.email "hortanio.silva@dotzmkt.com.br"
+git config  user.name "hortanio.silva"
+git commit -m "Adicionando integração com API store-locator private"
+|it push
+|d ..
+|d store-locator\
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it status
+|d ..
+|d offers-calculator\
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|it status
+|d ..
+|d store-locator\
+|it status
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|it pull
+git checkout feature/criacao-api-private
+|it add .
+|it status
+git commit -m "Adicionando casca da API private"
+|it push
+|it status
+|it checkout hotfix/160490 
+|it status
+|ubectl get pods -n store-locator
+|it status
+|it add .
+git commit -m "Melhoria nos buildes, e correção de smells"
+|it push
+|it status
+|it add .
+git commit -m "Correção de testes unitário"
+|it push
+|it checkout master
+|it pull
+git checkout hotfix/160490 
+|it merge master
+|it status
+|it add .
+|it status
+git commit -m "Merge master"
+|it push
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n members
+kubectl exec -it members-api-private-6446bf4dd-8qfgs -n -- env | grep JKS_SAFE_
+|ubectl exec -it members-api-private-6446bf4dd-8qfgs -n members -- env | grep JKS_SAFE_
+|ubectl get pods -n store-locator
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep JKS_SAFE_
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep JKS_SAFE_
+|ubectl get pods -n store-locator
+kubectl exec -it storelocator-api-private-6dcb56699-jms2l -n store-locator -- env | grep JKS_SAFE_
+|ubectl get pods -n store-locator
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep JKS_SAFE_
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl exec -it storelocator-api-private-6dcb56699-2rknp -n store-locator -- env | grep JKS_SAFE_
+|ubectl get pods -n store-locator
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep JKS_SAFE_
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep SAFE
+kubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep SAFE
+|ubectl get pods -n store-locator
+kubectl logs storelocator-api-private-6dcb56699-wzvmd -n store-locator -f
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep SAFE
+kubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator 
+kubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator bash
+kubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep JKS_SAFE_
+|ubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep SAFE
+kubectl set env pods storelocator-api-private-6dcb56699-wzvmd -n store-locator
+kubectl set env pods storelocator-api-private-6dcb56699-wzvmd -n store-locator JKS_SAFE_IPS=JKS_SAFE_IPS='127.0.0.1;::1;10.128.0.0/14;10.220.0.0/19;10.204.0.0/19;10.0.0.0/16;10.253.0.0/16;10.11.253.0/24;10.11.0.0/16;10.11.4.0/24;10.52.0.0/14;10.32.0.0/14;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;189.2.70.114;179.191.97.194/28;177.185.2.130;18.231.86.232;200.186.113.20;189.2.70.114;54.94.177.182;13.108.0.0/14;66.231.80.0/20;68.232.192.0/20;96.43.144.0/20;128.17.0.0/16;136.146.0.0/15;198.245.80.0/20;199.122.120.0/21;204.14.232.0/21;52.60.248.0/22;52.60.252.0/22;13.210.4.0/22;13.210.8.0/22;85.222.128.0/19;160.8.0.0/16;161.71.0.0/17;163.76.128.0/17;163.79.128.0/17;185.79.140.0/22;101.53.160.0/19;104.161.128.0/17;161.71.128.0/17;182.50.76.0/22;202.129.242.0/23;13.109.128.0/19;13.109.160.0/21;13.109.192.0/19;101.53.176.0/20;160.8.0.0/21;161.71.16.0/20;161.71.40.0/22;161.71.176.0/21;10.132.0.0/20;35.198.49.86;52.1.62.75;52.1.186.90;3.230.209.106;3.226.130.240;52.5.38.201;52.7.247.138;34.224.250.183;35.237.193.86;172.16.36.0/22;172.16.48.0/28;172.16.40.0/21;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;35.199.65.124;35.198.20.54;172.16.32.0/22;172.28.0.0/17;200.221.172.154;172.21.0.0/17;40.124.112.253;40.124.144.174;10.12.0.0/14;179.191.97.194/14;35.198.55.180;35.198.51.222;35.198.56.78;34.234.7.99;52.22.5.15;34.197.206.27;10.0.0.0/8;172.16.0.0/12;192.168.0.0/16;148.62.75.84;148.62.75.85;98.129.142.17;40.124.83.96;52.184.252.162;104.209.129.250;40.86.91.205;35.188.3.150;40.124.90.180;40.124.120.97;34.149.136.220;34.111.211.60;34.110.231.106;34.110.205.222;34.120.24.23;35.190.47.243;189.112.120.224/28;186.225.112.222/32;187.108.39.57/32;187.93.138.90/32;18.230.81.82/32;34.193.221.145/32;34.224.231.90/32;144.22.253.206/32;40.124.80.41;15.229.50.246;15.229.64.162;54.233.83.33;52.67.227.111;34.151.214.42;34.95.161.231;34.95.233.66;200.28.60.227;35.224.126.185;11.12.0.0/14;34.192.129.36;3.220.7.34;18.208.11.182;3.220.171.119;18.213.125.91;173.213.234.130;68.64.33.132;64.19.222.254;104.28.0.0/16;3.224.39.100;18.205.173.71;34.95.163.0;10.4.0.0/16;10.6.0.0/16;35.224.126.185;34.95.233.66;11.12.0.0/14;10.16.240.0/20;35.236.198.143;34.145.246.175;35.236.198.143;35.194.88.88;34.145.246.175
+kubectl exec -it members-api-private-6446bf4dd-8qfgs -n members -- env | grep JKS_SAFE_
+kubectl set env pods storelocator-api-private-6dcb56699-wzvmd -n store-locator JKS_SAFE_IPS=127.0.0.1;::1;10.128.0.0/14;10.220.0.0/19;10.204.0.0/19;10.0.0.0/16;10.253.0.0/16;10.11.253.0/24;10.11.0.0/16;10.11.4.0/24;10.52.0.0/14;10.32.0.0/14;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;189.2.70.114;179.191.97.194/28;177.185.2.130;18.231.86.232;200.186.113.20;189.2.70.114;54.94.177.182;13.108.0.0/14;66.231.80.0/20;68.232.192.0/20;96.43.144.0/20;128.17.0.0/16;136.146.0.0/15;198.245.80.0/20;199.122.120.0/21;204.14.232.0/21;52.60.248.0/22;52.60.252.0/22;13.210.4.0/22;13.210.8.0/22;85.222.128.0/19;160.8.0.0/16;161.71.0.0/17;163.76.128.0/17;163.79.128.0/17;185.79.140.0/22;101.53.160.0/19;104.161.128.0/17;161.71.128.0/17;182.50.76.0/22;202.129.242.0/23;13.109.128.0/19;13.109.160.0/21;13.109.192.0/19;101.53.176.0/20;160.8.0.0/21;161.71.16.0/20;161.71.40.0/22;161.71.176.0/21;10.132.0.0/20;35.198.49.86;52.1.62.75;52.1.186.90;3.230.209.106;3.226.130.240;52.5.38.201;52.7.247.138;34.224.250.183;35.237.193.86;172.16.36.0/22;172.16.48.0/28;172.16.40.0/21;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;35.199.65.124;35.198.20.54;172.16.32.0/22;172.28.0.0/17;200.221.172.154;172.21.0.0/17;40.124.112.253;40.124.144.174;10.12.0.0/14;179.191.97.194/14;35.198.55.180;35.198.51.222;35.198.56.78;34.234.7.99;52.22.5.15;34.197.206.27;10.0.0.0/8;172.16.0.0/12;192.168.0.0/16;148.62.75.84;148.62.75.85;98.129.142.17;40.124.83.96;52.184.252.162;104.209.129.250;40.86.91.205;35.188.3.150;40.124.90.180;40.124.120.97;34.149.136.220;34.111.211.60;34.110.231.106;34.110.205.222;34.120.24.23;35.190.47.243;189.112.120.224/28;186.225.112.222/32;187.108.39.57/32;187.93.138.90/32;18.230.81.82/32;34.193.221.145/32;34.224.231.90/32;144.22.253.206/32;40.124.80.41;15.229.50.246;15.229.64.162;54.233.83.33;52.67.227.111;34.151.214.42;34.95.161.231;34.95.233.66;200.28.60.227;35.224.126.185;11.12.0.0/14;34.192.129.36;3.220.7.34;18.208.11.182;3.220.171.119;18.213.125.91;173.213.234.130;68.64.33.132;64.19.222.254;104.28.0.0/16;3.224.39.100;18.205.173.71;34.95.163.0;10.4.0.0/16;10.6.0.0/16;35.224.126.185;34.95.233.66;11.12.0.0/14;10.16.240.0/20;35.236.198.143;34.145.246.175;35.236.198.143;35.194.88.88;34.145.246.175
+kubectl set env JKS_SAFE_IPS=127.0.0.1;::1;10.128.0.0/14;10.220.0.0/19;10.204.0.0/19;10.0.0.0/16;10.253.0.0/16;10.11.253.0/24;10.11.0.0/16;10.11.4.0/24;10.52.0.0/14;10.32.0.0/14;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;189.2.70.114;179.191.97.194/28;177.185.2.130;18.231.86.232;200.186.113.20;189.2.70.114;54.94.177.182;13.108.0.0/14;66.231.80.0/20;68.232.192.0/20;96.43.144.0/20;128.17.0.0/16;136.146.0.0/15;198.245.80.0/20;199.122.120.0/21;204.14.232.0/21;52.60.248.0/22;52.60.252.0/22;13.210.4.0/22;13.210.8.0/22;85.222.128.0/19;160.8.0.0/16;161.71.0.0/17;163.76.128.0/17;163.79.128.0/17;185.79.140.0/22;101.53.160.0/19;104.161.128.0/17;161.71.128.0/17;182.50.76.0/22;202.129.242.0/23;13.109.128.0/19;13.109.160.0/21;13.109.192.0/19;101.53.176.0/20;160.8.0.0/21;161.71.16.0/20;161.71.40.0/22;161.71.176.0/21;10.132.0.0/20;35.198.49.86;52.1.62.75;52.1.186.90;3.230.209.106;3.226.130.240;52.5.38.201;52.7.247.138;34.224.250.183;35.237.193.86;172.16.36.0/22;172.16.48.0/28;172.16.40.0/21;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;35.199.65.124;35.198.20.54;172.16.32.0/22;172.28.0.0/17;200.221.172.154;172.21.0.0/17;40.124.112.253;40.124.144.174;10.12.0.0/14;179.191.97.194/14;35.198.55.180;35.198.51.222;35.198.56.78;34.234.7.99;52.22.5.15;34.197.206.27;10.0.0.0/8;172.16.0.0/12;192.168.0.0/16;148.62.75.84;148.62.75.85;98.129.142.17;40.124.83.96;52.184.252.162;104.209.129.250;40.86.91.205;35.188.3.150;40.124.90.180;40.124.120.97;34.149.136.220;34.111.211.60;34.110.231.106;34.110.205.222;34.120.24.23;35.190.47.243;189.112.120.224/28;186.225.112.222/32;187.108.39.57/32;187.93.138.90/32;18.230.81.82/32;34.193.221.145/32;34.224.231.90/32;144.22.253.206/32;40.124.80.41;15.229.50.246;15.229.64.162;54.233.83.33;52.67.227.111;34.151.214.42;34.95.161.231;34.95.233.66;200.28.60.227;35.224.126.185;11.12.0.0/14;34.192.129.36;3.220.7.34;18.208.11.182;3.220.171.119;18.213.125.91;173.213.234.130;68.64.33.132;64.19.222.254;104.28.0.0/16;3.224.39.100;18.205.173.71;34.95.163.0;10.4.0.0/16;10.6.0.0/16;35.224.126.185;34.95.233.66;11.12.0.0/14;10.16.240.0/20;35.236.198.143;34.145.246.175;35.236.198.143;35.194.88.88;34.145.246.175 pod storelocator-api-private-6dcb56699-wzvmd -n store-locator
+kubectl exec -it storelocator-api-private-6dcb56699-wzvmd -n store-locator -- env | grep SAFE
+kubectl get deployment -n store-locator
+kubectl set env deployment/storelocator-api-private -n store-locator JKS_SAFE_IPS=127.0.0.1;::1;10.128.0.0/14;10.220.0.0/19;10.204.0.0/19;10.0.0.0/16;10.253.0.0/16;10.11.253.0/24;10.11.0.0/16;10.11.4.0/24;10.52.0.0/14;10.32.0.0/14;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;189.2.70.114;179.191.97.194/28;177.185.2.130;18.231.86.232;200.186.113.20;189.2.70.114;54.94.177.182;13.108.0.0/14;66.231.80.0/20;68.232.192.0/20;96.43.144.0/20;128.17.0.0/16;136.146.0.0/15;198.245.80.0/20;199.122.120.0/21;204.14.232.0/21;52.60.248.0/22;52.60.252.0/22;13.210.4.0/22;13.210.8.0/22;85.222.128.0/19;160.8.0.0/16;161.71.0.0/17;163.76.128.0/17;163.79.128.0/17;185.79.140.0/22;101.53.160.0/19;104.161.128.0/17;161.71.128.0/17;182.50.76.0/22;202.129.242.0/23;13.109.128.0/19;13.109.160.0/21;13.109.192.0/19;101.53.176.0/20;160.8.0.0/21;161.71.16.0/20;161.71.40.0/22;161.71.176.0/21;10.132.0.0/20;35.198.49.86;52.1.62.75;52.1.186.90;3.230.209.106;3.226.130.240;52.5.38.201;52.7.247.138;34.224.250.183;35.237.193.86;172.16.36.0/22;172.16.48.0/28;172.16.40.0/21;35.198.36.79;34.95.196.201;34.95.132.152;35.247.222.169;34.95.249.182;35.247.197.74;35.199.65.124;35.198.20.54;172.16.32.0/22;172.28.0.0/17;200.221.172.154;172.21.0.0/17;40.124.112.253;40.124.144.174;10.12.0.0/14;179.191.97.194/14;35.198.55.180;35.198.51.222;35.198.56.78;34.234.7.99;52.22.5.15;34.197.206.27;10.0.0.0/8;172.16.0.0/12;192.168.0.0/16;148.62.75.84;148.62.75.85;98.129.142.17;40.124.83.96;52.184.252.162;104.209.129.250;40.86.91.205;35.188.3.150;40.124.90.180;40.124.120.97;34.149.136.220;34.111.211.60;34.110.231.106;34.110.205.222;34.120.24.23;35.190.47.243;189.112.120.224/28;186.225.112.222/32;187.108.39.57/32;187.93.138.90/32;18.230.81.82/32;34.193.221.145/32;34.224.231.90/32;144.22.253.206/32;40.124.80.41;15.229.50.246;15.229.64.162;54.233.83.33;52.67.227.111;34.151.214.42;34.95.161.231;34.95.233.66;200.28.60.227;35.224.126.185;11.12.0.0/14;34.192.129.36;3.220.7.34;18.208.11.182;3.220.171.119;18.213.125.91;173.213.234.130;68.64.33.132;64.19.222.254;104.28.0.0/16;3.224.39.100;18.205.173.71;34.95.163.0;10.4.0.0/16;10.6.0.0/16;35.224.126.185;34.95.233.66;11.12.0.0/14;10.16.240.0/20;35.236.198.143;34.145.246.175;35.236.198.143;35.194.88.88;34.145.246.175
+|ubectl get pods -n store-locator
+kubectl exec -it storelocator-api-private-76cb5b4bc5-5twpk -n store-locator -- env | grep SAFE
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl logs storelocator-api-private-76cb5b4bc5-5twpk -n store-locator f
+kubectl logs storelocator-api-private-76cb5b4bc5-5twpk -n store-locator -f
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-64f6dc4f7f-9vt8f -n store-locator
+|ubectl get pods -n store-locator
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl config use-context gke_dotz-dev-219021_us-central1_develop
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl describe storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-64f6dc4f7f-9vt8f -n store-locator
+kubectl logs storelocator-api-default-64f6dc4f7f-9vt8f -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl get pods -n store-locator
+|ubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl logs storelocator-api-default-588d5f5fb4-mfngk -n store-locator
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl config use-context gke_dotz-dev
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl config use-context gke_dotz-dev
+|ubectl config use-context gke_dotz-dev
+kubectl config use-context gke_dotz-dev
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|xplorer .
+|it status
+|it status
+|it add .
+git commit -m "Correção de estrutura api-default"
+|it push
+|it status
+|s
+|ubectl get pods -n store-locator
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl logs storelocator-api-default-6bfc88d4cd-dfp9c -n store-locator
+kubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+|ubectl get pods -n store-locator
+kubectl get pods -n store-locator
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it stauts
+|it status
+|d ..
+cd worker_20
+|s
+|d worker_020_IndexadorProdutos\
+|ode .
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d node-active-invest\
+|pm start
+|d source\repos\
+|d partners-integration\
+|it checkout feature/156731
+|it pull
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it config user.email "hortanio.silva@dotzmkt.com.br"
+|it config user.name "hortanio.silva"
+|it push
+|it commit -m "Correção de testes unitários"
+|it push
+|it pull
+|it stauts
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|it pull
+|it pull
+|ode .
+|d ..
+cd .ç
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d node-active-invest\
+|ode .
+|pm start
+|pm start
+|d node-active-invest\
+|d Documents\projects\node-active-invest\
+|pm start
+|ubectl get pods -n faq
+kubectl get pods -n members
+kubectl exec -it members-api-private-5769bf4c58-s7rbr -n members -- env | grep SAFE
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n faq
+kubectl exec -it faq-api-private-7d867dc75c-v9kmg -n faq -- env | grep SAFE
+|ubectl get pods -n faq
+kubectl exec -it faq-api-private-6f6f6569c6-w6q2j -n faq -- env | grep SAFE
+|d source\repos\
+|s
+|d platform-card-applications\
+|at Makefile 
+docker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_USER=platform_promo_draws -e POSTGRES_PASSWORD=platform_promo_draws -d --rm --name testgres postgres:14
+|ocker ps
+kubectl config use-context gke_dotz-uat
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+|ubectl get pods -n faq
+kubectl get pods -n faq
+cd source\repos\core-promo-draws\
+|ode .
+|ocker ps
+|d ..
+cd platform-card-issuances\
+|ode .
+|d ..
+|s
+|d platform-customers\
+|ode .
+|d ..
+|d techfin-smartpay\
+|ode .
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+|it status
+|it status
+|it commit -m "structuring data and projects"
+|it status
+|it status
+|it commit -m "structuring data and projects"
+|it push
+|ode .
+docker run -d --rm --name testgres -p 65432:5432 -e POSTGRES_USER=platform_core_segment_management -e POSTGRES_PASSWORD=platform_core_segment_management -d --rm --name testgres postgres:14
+|ocker ps
+|d source\repos\core-segment-management\
+|it status
+|it add .
+git commit -m "adding migration"
+|it push
+|it status
+|it add .
+git commit -m "structuring data and projects"
+|it push
+|ode .
+|it status
+|it add .
+git commit -m "adding csm controller"
+|it push
+|it status
+|it status
+|it add .
+|it status
+|it commit -m "smells correction"
+|it push
+|it commit -m "smells correction"
+|it status
+|it add .
+git commit -m "smells correction"
+|it checkout .
+|it status
+|it fetch
+|it checkout .
+|it status
+|it status
+|d Documents\projects\
+|d node-active-invest\
+|pm start
+|d source\repos\core-segment-management\
+|it status
+|it status
+|it add .
+|it commit -m "Removing injenction on tests"
+git commit -m "Removing injenction on tests"
+|it status
+|it push
+|it status
+|it add .
+git commit -m "fixing csm controller routes"
+|it push
+|d redemptions\
+|d ..
+|d redemptions\
+|it pull
+|d ..
+|d rewards\
+|it checkout feature/156731
+|it pull
+|d ..
+|d redemptions\
+|it pull
+|it checkout master
+|it pull
+|it checkout master
+|it pull
+|it pull
+|it checkout feature/156731
+|it merge master
+|it status
+|it commit -m "Merge with master"
+|it push
+|d ..
+|d rewards\
+|it checkout master
+|it pull
+|it checkout feature/156731
+|it pull
+|it merge master
+|it status
+|d ..
+cd part
+|d partners-integration\
+|it pull
+|it status
+|it status
+|it status
+|it add .
+|it commit -m "Adding document filter for strategy resolver"
+|it status
+|it push
+|d ..
+|d redemptions\
+|it status
+|it add .
+git commit -m "Adding document filter for strategy resolver"
+|it push
+|ode .
+|d ..
+|d rewards\
+|it status
+|it pull
+|it pull
+|d ..
+|d partners-integration\
+|it pull
+|d ..
+|d rewards\
+|it pull
+|it pull
+|it pull
+|it stash
+|it pull
+git stash apply
+git statu
+|it status
+|it add .
+|it commit -m "Correcting unit tests"
+git config user.email "hortanio.silva@dotzmkt.com.br"
+git config user.name "hortanio.silva"
+git commit -m "Correcting unit tests"
+|it push
+|ubectl config get-contexts
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|d ..
+|d worker_020_IndexadorProdutos\
+|orker_020_IndexadorProdutos.exe -p 4981853 5008607 9147441
+|orker_020_IndexadorProdutos.exe -p 4981853 5008607 9147441
+Worker_020_IndexadorProdutos.exe -all 4981853 5008607 9147441
+|orker_020_IndexadorProdutos.exe -all
+|s
+|d ..
+|s
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d Worker20\
+|orker_020_IndexadorProdutos.exe -p 4981853 5008607 9147441
+|orker_020_IndexadorProdutos.exe -p 4981853 5008607 9147441
+Worker_020_IndexadorProdutos.exe -p 4981853 5008607 9147441
+|d ..
+|d ..
+|d source\repos\core-segment-management\
+|d ..
+|d source\repos\core-segment-management\]
+cd source\repos\core-segment-management\]
+|d source\repos\core-segment-management\
+|ode .
+|it pull
+|ocker ps
+|d source\repos\core-segment-management\
+|ocker ps
+|ocker ps
+|it status
+|it add .
+|it status
+git commit -m "Correção de migrations"
+|it push
+|it checkout develop
+|it pull
+|it checkout project-structuration
+|it merge develop
+|it status
+git commit -m "merge"
+|it status
+|it push
+|it status
+|it status
+|ode .
+|ode .
+|it status
+git commit -m "Criação do worker"
+|it push
+|it pull
+|it checkout feature/161969
+|it pull
+|it checkout develop
+|it pull
+|it checkout feature/161969
+|it merge develop
+|ode .
+|it status
+|it add .
+|it status
+|it commit -m "Correção de smells"
+|it push
+|it status
+|it pull
+|d ..
+git clone git@github.com:DotzInc/retail-loyalty-integration.git
+|ode .
+|d retail-loyalty-integration\
+|ode .
+|it status
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+|it add .
+|it status
+git commit -m "Adding pubsub configuration"
+|it push
+|d ..
+|d techfin-smartpay\
+|ode .
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+git commit -m "Adding worker and consumer api"
+|it push
+|it status
+|it add .
+|it commit -m "tfvars correction"
+|it pus
+|it push
+|it status
+|it add .
+git commit -m "tfvars correction"
+|it push
+|it status
+|it pull
+|ode .
+|it status
+git add . 
+|it commit -m "maintf correction"
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "maintf correction"
+|it push
+|it add .
+git commit -m "maintf correction"
+|it push
+|it add .
+|it commit -m "cloudbuild correction"
+|it push
+|it status
+|it add .
+git commit -m "envs.yaml correction"
+|it push
+|it add .
+|it status
+git commit -m "cloudbuild correction"
+|it push
+|d ..
+|d redemptions\
+|it pull
+|it status
+git add.
+|it add .
+|d ..
+|d core-segment-management\
+|it status
+|d ..
+|d redemptions\
+|it pull
+|d ..
+|d core-segment-management\
+|it status
+|it pull
+|d ..
+|it status
+|d redemptions\
+|it status
+|it add .
+|it commit -m "Correção de testes unitários"
+|it status
+|it status
+|it status
+|it push
+|it status
+|it status
+git add 
+|it add .
+|it commit -m "Correção de testes unitários"
+|it push
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+git commit -m "Consumer API correction and terraform adjusts"
+|it push
+|it status
+|it add .
+|it commit -m "Terraform main adjust"
+|it push
+|it status
+|it add .
+|it commit -m "Terraform main adjust"
+|it push
+|it add .
+git commit -m "Terraform main adjust"
+|it push
+|it merge develop
+|d Documents\projects\Worker20\
+|s
+Worker_020_IndexadorProdutos.exe -p 4981853
+|d source\repos\core-segment-management\
+|it checkout develop
+|it pull
+|it status
+|it pull
+|it checkout project-structuration
+|it checkout .
+|it status
+|it fetch
+|it merge develop
+|xplorer .
+|it merge develop
+|it status
+|it merge develop
+|it merge --abort
+|it merge develop
+|d source\repos\
+|link update
+|it status
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/faq
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/faq
+|it checkout feature/ignoring-faq-pagination
+cd faq\
+git checkout feature/ignoring-faq-pagination
+|it status
+|it pull
+|it status
+|it add .
+|it add .
+|it status
+|it status
+|it add .
+git commit -m "fix: temporarily removing pagination"
+|it status
+|it push
+|it status
+|it add .
+|it status
+gi add .
+|it add .
+|it commit -m "fix: updating dharmas and .net"
+|it push
+|it add .
+git commit -m "fix: updating dharmas and .net"
+|it push
+|d ..
+|it clone git@github.com:DotzInc/core-segment-management.git
+|d core-segment-management\
+|it pull
+|it checkout project-structuration
+|it status
+|xplorer .
+|xplorer .
+|ode .
+|sl -d ubuntu
+|sl -d ubuntu
+|d source\repos\core-segment-management\
+|it merge --abort
+|xplorer .
+git branch ls
+|it branch
+|it merge develop --no-edit
+|it status
+git commit -m "merge develop"
+|it push
+|it status
+|it pull
+|it status
+|it checkout develop
+|it pull
+|it checkout .
+|it checkout feature/161969
+|it pull
+|it merge develop --no-edit
+|it status
+|it pull
+|it checkout develop
+git pull origin develop
+|it fetch origin
+|it rebase origin/develop
+|it checkout feature/161969
+|it merge develop
+|it status
+|it checkout develop
+|it checkout project-structuration
+|it checkout develop
+|it checkout feature/161969
+|it checkout develop
+git checkout feature/161969
+|it checkout develop
+|it checkout project-structuration
+|d Documents\projects\
+|s
+|d node-active-invest\
+|pm start
+|d source\repos\redemptions\
+|it checkout master
+|it pull
+|d ..
+|d partners-integration\
+|it checkout master
+|it pull
+|it checkout .
+|it checkout master
+|it pull
+|it checkout feature/156731
+|it pull
+|it pull
+|it pull
+|d rewards\
+|d rewards\
+|d ..
+|d rewards\
+|it status
+git checkout masrter
+|it checkout master
+cd ..c
+|d ..
+|d redemptions\
+|it status
+|it checkout feature/156731
+|it status
+|it add .
+git commit -m "Fix: Confirm or cancell order partnerId correction"
+|it push
+|d ..
+|d partners-integration\
+|it pul
+|it pull
+|d ..
+|d rewards\
+|d ..
+|d partners-integration\
+|it pull
+|it pu
+|it pu
+|it pull
+|d ..
+|d core-segment-management\
+|ode .
+kubectl get pods -n giffty-supplier
+|d ..
+|d partners-integration\
+|it status
+|it status
+|it status
+|it add .
+|it commit -m "Fix: voucher get link contract"
+|it push
+|it status
+|d ..
+|d redemptions\
+|it status
+|it add .
+|it setatus
+|it status
+git commit -m "Fix: voucher get link contract"
+|it push
+|d ..
+|s
+|d core-promo-draws\
+|ode .
+|d ..
+|d rewards\
+|it status
+|it status
+|it checkout feature/156731
+|it stauts
+|it checkout .
+|it checkout feature/156731
+|it status
+|it pull
+|it checkout master
+|ubectl port-forward redis-0 6379:6379
+|d ..
+|d partners-integration\
+|it status
+git add. 
+|it add .
+git commit -m "Fix: magalu integration"
+|it push
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|d ..
+|d core-segment-management\
+|it status
+|it commit -m "Adjusting worker rawDataProcessor functionality"
+|it status
+|it push
+|it status
+git commit -m "Adjusting worker rawDataProcessor functionality"
+|it push
+|d retail-loyalty-integration\
+|d ..
+|d retail-loyalty-integration\
+|ode .
+|d ..
+|d techfin-smartpay\
+|ode .
+|d ..
+|d core-segment-management\
+|ode .
+|it status
+|it status
+git commit -m "Ajusts to migration"
+|it push
+|it status
+|it add .
+git commit -m "Ajusts on API consumer routines"
+|it push
+|it status
+|it checkout develop
+|it pull
+|it checkout project-structuration
+|it pull
+|it merge develop
+|it status
+|it add .
+|it commit -m "Merge with develop"
+|it push
+|it status
+|it checkout develop
+|it fetch
+git fetch origin
+gitp ull
+|it pull
+|it status
+|it checkout .
+|it status
+|it checkout project-structuration
+|it merge develop
+|d source\repos\core-segment-management\
+|it status
+|it merge --abort
+|it merge develop --no-edit
+|it status
+|it status
+|it push
+|it status
+|it status
+|it checkout develop
+|it checkout project-structuration
+|d ..
+|d redemptions\
+|its tatus
+|it status
+|it pull
+|it status
+|it status
+|it add .
+|it add .
+|it status
+|it add .
+|it commit -m "Fixing get supplierProduct call"
+|it push
+|it status
+|it add .
+git commit -m "Fixing get supplierProduct call"
+|it push
+|it status
+|ode .
+|it status
+|it pull
+|it pull
+|it status
+|it status
+|it add .
+|it commit -m "Smells correction"
+|it push
+|d Documents\projects\node-active-invest\
+|pm start
+|d ..
+|d ..
+|d ..
+|d source\repos\core-segment-management\
+|ode .
+|it status
+|it status
+|it status
+git commit -m "Adjust to update raw_user_segment status before publishing to consumer"
+|it push
+|it status
+git commit -m "Adjust to origins_table migration"
+|it push
+|it status
+git commit -m "Adding some extesions and improving validation"
+|it push
+|it status
+|it add .
+|it status
+git commit -m "Adding transaction and catch prevention to workflow"
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|d ..
+|d core-promo-draws\
+|ode .
+|d ..
+|d techfin-smartpay\
+|ode .
+|d ..
+|s
+cd store-locator\
+|ode .
+|d offers-calculator\
+|d ..
+cd offers-calculator\
+|ode .
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|it status
+|it status
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+git commit -m "Adding cache functionality to origins and channels data"
+|it push
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ode .
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|d ..
+|d core-segment-management\
+|at .env
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|lear
+|it status
+|it pull
+|it status
+|it checkout develop
+|it pull
+|link update
+|d Documents\projects\
+|s
+temp-node-bosta
+mkdir temp-node-bosta
+rm temp-node-bosta\
+rm -rf temp-node-bosta\
+|d temp-node-bot\
+|s
+|s
+node .
+|ode .
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+curl --location 'https://localhost:5251/v1/raw-segment-data:process' \ --header 'Content-Type: application/json' \ --data '{   "deliveryAttempt": 0,   "message": {     "data": "ewogICAgImlkIjogImI5ZTdjNGQ4LTNjMmEtNGY1Yi1hOGUxLTkxYzJhOGY0NTZiNyIsCiAgICAib3JpZ2luX3NsdWciOiAib3JpZ2VtX2xlbWJyYWRvciIsCiAgICAic2VnbWVudF9zbHVnIjogInNlZ21lbnRvX2xlbWJyYWRvciIsCiAgICAidXNlcl9kb2N1bWVudCI6ICIxMjMiLAogICAgImFjdGlvbiI6ICJkZWwiLAogICAgImNyZWF0ZWRfYXQiOiAiMjAyNC0xMi0wOSAxNToyNjoxMS42MDYiCn0=",     "messageId": "string",     "publishTime": "2024-12-16T23:25:16.442Z"   },   "subscription": "string" }'
+curl --location 'https://localhost:5251/v1/raw-segment-data:process' \
+--header 'Content-Type: application/json' \
+--data '{
+|pm start
+|lear
+|lear
+|pm start
+|pm start
+|pm start
+|pm start
+|pm install undici
+|pm start
+|pm start
+npm install undici
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|lear
+|lear
+|pm start
+|pm start
+|lear
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|lear
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|it stauts
+|it stauts
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|d Documents\projects\node-active-invest\
+|pm start
+|pm start
+|d Documents\projects\
+|s
+|d node-active-invest\
+|d ..
+cd temp-node-bot\
+|ode .
+|pm start
+|pm start
+|d Documents\projects\node-active-invest\
+|pm start
+|ode .
+|pm start
+|pm start
+npm start-min
+|pm start-mine
+|pm start-mine
+|pm run start-mine
+|pm run start-mine
+|pm run start-mine
+|y --version
+cd Documents\projects\corno-service-2
+|ode .
+npm init -y
+|pm start
+|pm start
+|pm start
+|pm start
+|s
+|d ..
+|s
+cd corno-service
+|s
+cat index.js 
+|d ..
+|d corno-service-2\
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|lear
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|lear
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|d ..
+|d node-active-invest\
+|ode .
+|ode .
+|d ..
+|s
+cd corno-service-2\
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|pm start
+|d Documents\projects\
+|s
+cd corno-service
+|ode .
+|d Documents\projects\
+|s
+|d node-active-invest\
+|pm start
+cd source\repos\core-
+|d source\repos\core-segment-management\
+|it status
+|it checkout project-structuration
+|it status
+|it pull
+|it merge develop --no-edit
+|it status
+|it push
+|it status
+|it add .
+git commit -m "Fixing errors"
+|it push
+cat .env
+|d ..
+|d retail-loyalty-integration\
+|ode .
+cd ..\core-segment-management\
+|it status
+|ode .
+|it status
+|d ..
+|it status
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/dharma-redis
+|d dharma-redis\
+|it pull
+git checkout feature/adding-scriptasync-functionality
+|it status
+|it add .
+|it status
+git dd .
+|it add .
+|it commit -m "Adding ScriptAsync functionality"
+|it push
+|ode .
+|it status
+|it checkout .
+|d ..
+|m -rf dharma-redis\
+rm -rf dharma-redis\
+|d dharma-redis\
+git clone git@github.com:DotzInc/dharma-redis.git
+|d dharma-redis\
+|ode .
+|it pull
+git checkout adding-script-evaluate-async
+|it status
+|it status
+|it add .
+git commit -m "Adding ScriptAsync functionality"
+|it push
+|ubectl port-forward redis-0 6379:6379
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+git commit -m "Adding consumer api request limiter"
+|it push
+|it status
+|it status
+|it add .
+git commit -m "Adding comments and smells correction"
+|it push
+|it checkout develop
+|it pull
+|it checkout project-structuration
+|it pull
+|it merge develop --no-edit
+|it status
+|it add .
+|it status
+|it commit -m "Merge with develop"
+|it push
+|d ..
+|d core-segment-management\
+|d ..
+|d retail-loyalty-integration\
+|ode .
+|it status
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it status
+git ad .
+|it add .
+|it commit -m "Smells fixing"
+|it push
+|t status
+|it status
+|it add .
+|it commit -m "Smells fixing"
+|it push
+|it merge develop --no-edit
+|it status
+|it push
+|it checkout develop
+|it pull
+|it checkout .
+|it checkout project-structuration
+|it merge develop --no-edit
+|it stauts
+|it status
+|it add .
+|it commit -m "Merge with develop"
+|it push
+|it status
+|it add .
+|it status
+|it commit -m "Fixing smells"
+|it push
+git checkout qa
+|it merge develop --no-edit
+|it status
+|it status
+|it status
+|it status
+|it commit -m "Merge with develop"
+|it push
+|it status
+|it add .
+|it commit -m "Merge with develop"
+|it push
+|it status
+|it checkout project-structuration
+|it status
+|d ..
+|it clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/cat-worker-043-precificador
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/cat-worker-043-precificador
+|d cat-worker-043-precificador\
+|ode .
+|d ..
+|s
+cd gf-hub\
+|s
+|d ..
+|d gf-business\
+|s
+|d ..
+|s
+|d Dominio\
+|s
+|d ..
+|s
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/DotzTeam/gf-framework
+|d cat-worker-043-precificador\
+|xplorer .
+|d ..
+|d gf-business\
+|it stauts
+|it status
+|xplorer .
+|d ..
+|d cat-worker-043-precificador\
+|ode .
+|d ..
+cd gf-business\
+|ode .
+|d ..
+|d retail-loyalty-integration\
+|ode .
+|ubectl port-forward redis-0 6379:6379
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+git commit -m "Adding segmentation processement unit tests"
+|it push
+|it checkout develop
+|it pull
+|it checkout project-structuration
+|it merge develop --no-edit
+|it status
+|it add .
+|it commit -m "Merge with develop"
+|it push
+|d ..
+|d retail-loyalty-integration\
+|ode .
+|it status
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+|it commit -m "Merge with develop"
+|it pushj
+|it push
+|it add .
+git commit -m "Merge with develop"
+|it push
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|ode .
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it checkout develop
+|it pull
+|it checkout project-structuration
+|it merge develop --no-edit
+|it status
+|it status
+|it push
+|d ..
+|s
+|d platform-card-applications\
+|it status
+|ode .
+|d ..
+|d core-promo-draws\
+|ode .
+|d ..
+|d core-segment-management\
+|it pull develop
+|it setatus
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it checkout develop
+|it pull
+git rebase origin/develop
+|it checkout project-structuration
+|it merge develop --no-edit
+|it status
+|it merge develop
+|it merge develop --no-edit
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|d ..
+kls
+|s
+cd retail-loyalty-integration\
+|ode .
+|D ..
+cd core-promo-draws\
+|ode .
+|ode .
+cat C:\Users\anio\AppData\Roaming\gcloud\legacy_credentials\hortanio.silva@dotz.com\adc.json
+cat C:\Users\Tanio\AppData\Roaming\gcloud\legacy_credentials\hortanio.silva@dotz.com\adc.json
+|d ..
+|d source\repos\core-segment-management\
+|d core-segment-management\
+|it status
+|it add .
+|it commit -m "Adding iam member for pubsub to service_account"
+|it status
+|it push
+|it status
+|it add .
+|it commit -m "Adding iam member for pubsub to service_account"
+|it push
+|it status
+|it add .
+|it commit -m "Adding iam member for pubsub to service_account"
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Adding iam member for pubsub to service_account"
+|it push
+|it status
+|it add .
+git commit -m "Adding iam member for pubsub to service_account"
+gitp ush
+|it push
+|it status
+git pull develop
+|it checkout develop
+|it pul
+|it pull
+|it checkout project-structuration
+|it merge develop --no-edit
+|it status
+|it push
+|it status
+|it add .
+git commit -m "Smells correction"
+|it push
+|d ..
+|d rewards\
+|it pull
+|it status
+|it setatus
+|it status
+|it setatus
+|it status
+|it pull
+git checkout feature/worker-category-synchronizer
+|ode .
+|it status
+|it add .
+|it status
+git commit -m "Adding new category synchronizer worker"
+|it push
+|it status
+|it add .
+git commit -m "Adding unit tests for category synchronizer worker"
+|it push
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|ubectl get pods -n rewards
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n rewards
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categorysynchronizer-l92p7 -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categorysynchronizer-nc8lm -n rewards
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|ubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categorysynchronizer-dfc8z -n rewards
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categorysynchronizer-6nmpc -n rewards -f
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categorysynchronizer-f5m5v -n rewards
+|link update
+|d source\repos\redemptions\
+|it pull
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|ubectl get pods -n rewards
+|ubectl logs rewards-worker-categorysynchronizer-zt7pk -n rewards
+|ubectl logs rewards-worker-categorysynchronizer-zt7pk -n rewards
+|ubectl logs rewards-worker-categorysynchronizer-zt7pk -n rewards -f
+kubectl logs rewards-worker-categorysynchronizer-zt7pk -n rewards -f
+kubectl logs rewards-worker-categorysynchronizer-zt7pk -n rewards
+|ubectl get pods -n rewards
+|it status
+|d ..
+|d rewards\
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|ubectl get pods -n rewards
+|ubectl get pods -n rewards
+|d ..
+|d platform-card-applications\
+|ode .
+|it status
+|d ..
+|d rewards\
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|ubectl port-forward redis-0 6379:6379
+|it status
+|it status
+|it add .
+|it status
+|d ..
+|d core-segment-management\
+|it status
+|it add .
+|it commit -m "Adding cnpj validation"
+|it pus
+|it push
+kubectl port-forward redis-0 6379:6379]
+|ubectl port-forward redis-0 6379:6379
+|it status
+|it add .
+|it commit -m "Adding cnpj validation"
+|it push
+|it checkout develop
+|it pull
+|it status
+|it checkout project-structuration
+|it merge develop --no-edit
+|it push
+|it status
+|it add .
+git commit -m "Adding cnpj validation"
+|it push
+|it status
+|d ..
+|d rewards\
+|it status
+|it add .
+|it status
+|it add .
+|it status
+|it commit -m "Fixing worker category synchronizer queries"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing worker category synchronizer queries"
+|it push
+|d ..
+|d redemptions\
+|ode .
+|it pull
+|d ..
+|d rewards\
+|it status
+|it add .
+git commit -m "Fixing worker category synchronizer queries"
+|it push
+|d ..
+|d redemptions\
+|it setatus
+|it status
+|it add .
+|it commit -m "Fixing worker CheckAntifraudResult"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing worker CheckAntifraudResult"
+|it push
+|it status
+|it add .
+git commit -m "Fixing worker CheckAntifraudResult"
+|it push
+|d ..
+|d partners-integration\
+it status
+|it status
+|it pull
+|d ..
+|d redemptions\
+|it status
+|it add .
+|it commit -m "Smells fixing"
+|it push
+|it pull
+|d ..
+|d rewards\
+|it pull
+|it status
+|it add .
+git commit -m "Smells fixing"
+|it push
+|ode .
+|it status
+it add .
+|it add .
+git commit -m 
+git commit -m "Fixing product img url for research by sku"
+|it push
+|d ..
+|ode .
+|d ..
+|d rewards\
+|it status
+|it checkout master
+|it checkout master
+|it pull
+|it pull
+|it status
+|it status
+git stash
+|it status
+|it status
+|it pul
+|it pull
+|it status
+|it merge master
+|it status
+|it push
+|it status
+|it add .
+git commit -m "Fixing tests"
+|it push
+|it status
+|ubectl get pods -n rewards
+kubectl logs rewards-worker-categories-8wzpx -n rewards
+|it status
+|it status
+|it add .
+git commit -m "Fixing mapping images"
+|it push
+|it checkout master
+|it pull
+|lera
+|lear
+|d ..
+|d cat-worker-043-precificador\
+|ode .
+cd ../gf-business
+|s
+|ode .
+|d ..
+|d cat-worker-043-precificador\
+|ode .
+|d ..
+cd Worker20\
+|s
+|d worker_020_IndexadorProdutos\
+|ode .
+|d ..
+|s
+|d cat-worker-043-precificador\
+|ode .
+|ode .
+|d ..
+|d worker_020_IndexadorProdutos\
+|ode .
+|d ..
+|s
+cd worker_005_processamento_fila_catalogo\
+|ode .
+|d ..
+cd worker_004
+cd Worker_004_Processamento_Carga\
+|ode .
+|d ..
+cd cat-worker-043-precificador\
+|ode .
+|d ..
+cd worker_020_IndexadorProdutos\
+|ode .
+|d ..
+|d redemptions\
+|it pull
+|d ..
+|d rewards\
+|it checkout feature/156731
+|it setatus
+|it status
+|d ..
+|d partners-integration\
+|it pull
+|ode .
+|it status
+|d ..
+|d rewards\
+|it status
+|it add .
+|it status
+|it add .
+|it commit -m "Fixing mapping partners integration errors"
+|it push
+|it pull
+|it status
+|it add .
+git commit -m "Fixing mapping partners integration errors"
+|it push
+|d ..
+|d core-segment-management\
+|ode .
+|ubectl get pods -n redemptions
+|ubectl get pods -n redemptions
+|ubectl get pods -n redemptions
+|ubectl get pods -n redemptions
+|ubectl get pods -n redemptions
+|d ..
+|d partners-integration\
+|it pull
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|it status
+|d ..
+|d rewards\
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|ubectl port-forward redis-0 6379:6379
+|ubectl get pods -n partners-integration
+|ubectl logs partnersintegration-api-private-6c6fbddd4d-cz48f -n partners-integration
+cd ..\partners-integration\
+|it pull
+|ubectl logs partnersintegration-api-private-6c6fbddd4d-cz48f -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl port-forward redis-0 6379:6379
+kubectl logs partnersintegration-api-private-6c6fbddd4d-cz48f -n partners-integration
+|ubectl logs partnersintegration-api-private-6c6fbddd4d-cz48f -n partners-integration -f
+kubectl delete pods --all -n partners-integration
+kubectl logs partnersintegration-api-private-6c6fbddd4d-cz48f -n partners-integration -f
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl logs partnersintegration-api-private-6c6fbddd4d-dsqvj -n partners-integration
+|ubectl logs partnersintegration-api-private-6c6fbddd4d-dsqvj -n partners-integration
+clera
+|lear
+cls
+kubectl logs partnersintegration-api-private-6c6fbddd4d-dsqvj -n partners-integration
+|ubectl port-forward redis-0 6379:6379
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ode .
+|it status
+|d ..
+cd rewards\
+|it status
+|it add .
+|it commit -m "Fixing error mapping"
+|it push
+|sh pi@192.168.50.240
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d node-active-invest\
+|pm start
+|d ..
+|d ..
+|d ..
+|d source\repos\rewards\
+|it status
+|it add .
+git commit -m "Fixing error mapping"
+|it push
+|it merge master
+|it status
+|it add .
+|it commit -m "Merging with master"
+|it push
+|it checkout master
+|it pull
+|it checkout feature/156731
+|it merge master
+|d source\repos\rewards\
+|it merge --abort
+|it merge master
+|
+|s
+|s
+|s
+|d source\repos\rewards\
+git merge --abort
+|it merge master --no-edit
+|it status
+|it push
+|d ..
+|d redemptions\
+|it status
+|it pull
+|it pull
+|it pull
+|it status
+|it pull
+|it pull
+|it pull
+|it pull
+|it pull
+CD ..
+|d partners-integration\
+|it pull
+|d ..
+|d redemptions\
+|it status
+|it add .
+git commit -m "Fixing Antifraud worker proccess"
+|it push
+|it checkout master
+|it pull
+|it pull
+|it checkout feature/156731
+|it merge master --no-edit
+|it status
+|it push
+|it checkout master
+|it pull
+|it checkout feature/156731
+|d ..
+|s
+cd Dominio\
+|s
+|ode .
+|d ..
+|s
+|d core-segment-management\
+|it pull
+|it checkout develop
+|it pull
+|it push
+|it pull
+|it checkout project-structuration
+git merge master --no-edit
+git merge develop --no-edit
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ode .
+|ubectl port-forward redis-0 6379:6379
+|it status
+git statsu
+|it status
+|it add .
+|it commit -m "Fixing consumer update segmentation with limit"
+|it push
+|it add .
+|it commit -m "Fixing consumer update segmentation with limit"
+|it push
+|it rebase origin/main
+|it status
+|it rebase --continue
+|it status
+|it add .
+|it commit -m "Rebasing main"
+|it status
+|it push
+git push -f origin/my-feature-branch
+|it push -f origin/project-structuration
+|it push -f origin/project-structuration
+|it status
+|it rebase --continue
+|it status
+|it add .
+|it commit -m "Rebasing main"
+|it status
+|it push -f origin/project-structuration
+|it status
+|it rebase --continue
+|d ..
+|m -rf core-segment-management\
+|it clone git@github.com:DotzInc/core-segment-management.git
+|d core-segment-management\
+|it status
+|it checkout project-structuration
+|it status
+|it checkout main
+|it status
+git checkout develop
+|it status
+git merge main
+|it status
+|it checkout project-structuration
+git merge develop
+|it status
+|t push
+|it push
+|it fetch
+git rebase origin/main
+|it status
+|it rebase --continue
+|it config user.name "hortaniorocha"
+|it config user.email "hortanio@gmail.com"
+git rebase --continue
+git commit -m "Rebasing main"
+|it status
+it push -f origin/project-structuration
+git push -f origin/project-structuration
+git push origin/project-structuration HEAD:project-structuration
+|it status
+git checkout project-structuration
+|it status
+it push
+|it push
+git fetch main
+git fetch
+|d ..
+|m -rf core-segment-management\
+rm -rf core-segment-management\
+git clone git@github.com:DotzInc/core-segment-management.git
+|d core-segment-management\
+|it status
+|it checkout limit_correction
+|it status
+|it pull
+git checkout limit_correction
+|ode .
+|it status
+|ubectl port-forward redis-0 6379:6379
+|it status
+|it add .
+|it commit -m "Fixing consumer update segmentation with limit"
+|it config user.email "hortanio@gmail.com"
+|it config user.name "hortaniorocha"
+git commit -m "Fixing consumer update segmentation with limit"
+|it push
+|d ..
+|d redemptions\
+|it status
+|it add .
+|it commit -m "Refactoring unit tests and smells"
+|it push
+|it push
+|it status
+|it status
+git commit -m "Refactoring unit tests and smells"
+|it push
+git setatus
+|d ..
+|d core-segment-management\
+|ode .
+|sh pi@192.168.50.240
+|sh ubuntu@144.22.255.135
+|sh ubuntu@144.22.255.135
+|sh ubuntu@144.22.255.135
+|sh ubuntu@168.138.229.206
+|s
+|s
+|d .
+|d ..
+|d .
+|
+| ..
+|d ..
+|d ..
+|s
+|d ..
+|d ..
+|s
+|d Starship\
+|s
+|tarship.exe
+|tarship.exe config
+|tarship init bash
+starship.exe init bash
+starship.exe preset
+|tarship.exe config
+|d ..
+cd Users\Tanio\
+|kdir .config
+touch starship.toml
+|d ..
+|d .
+cd Tanio\.config\
+|s
+|s
+|d ..
+mv starship.toml .config\starship.toml
+|s
+|d .config\
+|s
+|s
+|ano starship.toml
+LS
+|d ..
+|d ..
+|d ..
+|s
+|d Starship\
+|s
+|tarship.exe
+|kdir .config
+|kdir .config
+mkdir .config
+|s
+|s
+|s
+|xplorer .
+|s
+|tarship.exe
+|tarship.exe config
+starship.exe config
+|s
+|tarship.exe
+|tarship.exe init
+|tarship.exe
+C:\Starship\starship.exe
+|:\Starship\starship.exe prompt
+|:\Starship\starship.exe prompt
+gst
+|:\Starship\starship.exe prompt
+C:\Starship\starship.exe prompt
+|s
+|tarship.exe
+|tarship.exe init
+starship.exe init cmder
+starship.exe init cmdd
+starship.exe init cmd
+starship.exe init
+starship.exe init gu
+starship.exe init powershell
+|nvoke-Expression (& 'C:\Starship\starship.exe' init powershell --print-full-init | Out-String)
+ps
+powershell
+|d .config\
+|ano starship.toml
+notepad starship.toml
+|d ..
+|d ..
+|d .
+|d ..
+|d Starship\
+c:
+|s
+|s
+|tarship.exe
+starship.exe prompt
+|s
+starship.exe completions
+|s
+cd Users\Tanio\docu
+|s
+|d .
+|d ..
+cd Users\Tanio\.config\
+|s
+notepad starship.toml 
+C:\Starship\starship.exe init powershell --print-full-init
+|d ..
+|d ..
+|d ..
+cd Starship\
+starship.exe init powershell --print-full-init
+starship.exe init powershell --print-full-init | Out-String
+Invoke-Expression (& 'C:\Starship\starship.exe' init powershell --print-full-init | Out-String)
+|s
+starship.exe
+set
+set path
+|tarship init bash
+starship init cmd
+|link update
+starship init cmder
+|tarship init powershell
+starship init bash
+|tarship init clink
+starship init clinc
+starship init clink
+|s
+|s
+|s
+|s
+|s
+|s
+|s
+|link update
+|s
+|s
+|s
+|s
+|s
+alembic version
+|s
+|s
+|s
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|s
+|s
+|s
+|s
+|lear
+|s
+|ubectl get pods -n partners-integration
+|s
+|d source\repos\rewards\
+|s
+|it status
+|s
+|d ..
+|s
+|
+scd .
+|d ~
+|d ..
+|d ..
+|d ..
+|s
+|d Tanio\
+|s
+|s
+|d .config\
+|s
+|at starship.toml 
+|at starship.toml 
+|s
+|ubectl get pods -n partners-integration
+|s
+|d .config\
+|s
+|at starship.toml 
+|s
+|s
+|s
+|d .config\
+|s
+nano starship.toml
+|s
+|s
+|s
+|s
+|s
+|s
+|d ..
+c
+|d source\repos\
+|s
+|d partners-integration\
+|it status
+|d ..
+|s
+|s
+|d ..
+|s
+cd ..kjs
+|s
+|it status
+|it status
+|s
+|d ..
+|d .config\
+|s
+|ano starship.toml 
+|s
+|s
+|d .config\
+|at starship.toml 
+|ano starship.toml 
+|s
+|s
+cd source\repos\rewards\
+|d ..
+|d ..
+|d ..
+|d .config\
+|s
+|s
+asd
+|s
+|ano starship.toml 
+|s
+|s
+|s
+|ano starship.toml 
+|s
+|s
+|ano starship.toml 
+|ano starship.toml 
+|s
+|sh ubuntu@168.138.229.206
+|at starship.toml 
+|ano starship.toml 
+|s
+|s
+|s
+|ano starship.toml 
+|s
+|ano starship.toml 
+|ano starship.toml 
+|sd
+|at starship.toml 
+|ano starship.toml 
+|s
+|este
+|s
+|ubectl get pods -n partners-integration
+|s
+|s
+|s
+|ubectl get pods -n partners-integration
+|ano starship.toml 
+nano starship.toml 
+|at starship.toml 
+|s
+|ubectl get pods -n partners-integration
+cat starship.toml 
+|d ..
+|d ..
+|d ..
+cd Users\Tanio\source\repos\accounts\
+|s
+|it status
+|it status
+|s
+|d ..
+|d accounts\
+|s
+|ano nuget.config 
+|ano nuget.config 
+|ano nuget.config 
+|ano nuget.config 
+|ubectl get pods -n partners-integration
+|este
+|s
+|este
+|s
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|ubectl get pods -n partners-integration
+|s
+|s
+|s
+|d ..
+|s
+|s
+|s
+|s
+status
+|it status
+|d accounts\
+|it status
+|s
+|s
+|s
+|d ..
+|s
+|d accounts\
+|s
+|ano nuget.config 
+|ano nuget.config 
+|s
+|s
+|s
+|s
+|s
+|d ..
+cd accounts\
+nano nuget.config 
+|lear
+ll
+|s
+|d ..
+|s
+|s
+|s
+|s
+|s
+cd deposits\
+|it status
+|d ..
+|s
+|s
+|s
+|d source\repos\
+|s
+|s
+|s
+|d source\repos\core-segment-management\
+|it pull
+|ubectl port-forward redis-0 6379:6379
+|s
+|it status
+|it pull
+|it checkout feature/fixing-duplicated-decorators
+|it status
+|it status
+|it add .
+git commit -m "Removing duplicated decorators"
+|it push
+|it status
+|it stauts
+|it status
+|it push
+|it checkout main
+|it status
+|it pull
+git checkout feature/fixing-duplicated-decorators
+|d ..
+|d redemptions\
+|it status
+|it add .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it push
+|it status
+|it add .
+|it stauts
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|d ..
+|d source\repos\core-segment-management\
+|d core-segment-management\
+|ode .
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|d ..
+|d redemptions\
+|it status
+|it add .
+git commit -m "Fixing code smells, and coverage"
+|it push
+|d ..
+|d core-segment-management\
+|ode .
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it pull
+git checkout fixing-tags-query
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it status
+|it status
+|it push
+|ode .
+|d ..
+cd cobranding\
+|ode .
+|ubectl get pods -n partners-integration
+kubectl exec -it partnersintegration-api-private-677855b545-ftwql -n partners-integration bash
+|d ..
+|d redemptions\
+|it status
+|it add .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|ode .
+GIT STATUS
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it push
+|it push
+|it push
+|it push
+|it push
+|it push
+|it status
+|it add .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it stauts
+|it status
+|it status
+|it status
+|it status
+|it checkout .
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it status
+|it status
+|it status
+|it add .
+|it stauts
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it push
+|it push
+|it status
+|it checkout master
+|it status
+|it pull
+|it checkout feature/156731
+|it merge master
+|it status
+|it add .
+|it status
+|it commit -m "Merge with master"
+|it status
+|it push
+|ode .
+|ode .
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|ubectl get pods -n redemptions
+kubectl config use-context gke_dotz-dev-219021_us-central1_develop 
+|ubectl get pods -n redemptions
+|ubectl logs redemptions-api-default-7f765cdb64-9h76l -n redemptions
+|pconfig
+kubectl logs redemptions-api-default-7f765cdb64-9h76l -n redemptions
+|ubectl get pods -n redemptions
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|it status
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.240
+|sh pi@192.168.50.240
+ssh tanio@192.168.50.240
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.250
+| ..
+cd. .c
+d ..
+|d ..
+|d ..
+|d ..
+|s
+cd .ssh\
+touch ssh_config
+|ano ssh_config 
+|sh tanio@192.168.50.250
+|sh tanio@192.168.50.1
+|s
+nano ssh_config 
+|sh tanio@192.168.50.1
+%userprofile%\.ssh\config
+|ano %userprofile%\.ssh\config
+|sh tanio@192.168.50.1
+nano %userprofile%\.ssh\config
+|sh tanio@192.168.50.1
+|s
+|sh tanio@192.168.50.1
+|s
+rename config configbosta
+|s
+|sh tanio@192.168.50.1
+cat configbosta 
+|s
+rename configbosta config
+|sh tanio@192.168.50.1
+|sh pi@192.168.50.240
+|sh ubuntu@168.138.229.206
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|lear
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|d source\repos\redemptions\
+|it pull
+|it checkout feature/163100 
+|ode .
+|it pull
+|it pull
+|d .
+cd ..cd
+|d ..
+|d ..
+|d ..
+|d Documents\projects\node-active-invest\
+|pm start
+|ode .
+cd source\repos\risk-gateway\
+|it pull
+|d ..
+|d redemptions\
+vRx.exe /SecretKey=jtSe0eJLBbHaNcSprzWiwXVwOmXXmwKWU8RTUD9B9Er1EoPySe9C9Ihfp2fIHll9eRvVoMnds4WkYtjGuSNhlPKTEce26cx48Do0Dzx5bBV4JMPK3fH3GcQnz9pRFuVdEpQAEpK8ELGIsokAPKIlt7Xomx37CCmN6LPC1h2taWrVye4rJxBzhLSgMgEf5QcrL4VeDKvRkDYAZ1MM2XvImVmSXFB6ZXI1Ns7qrGXnJPrvJbaknT1r9S7fkJbdheDG /Hostname=https://dotz-api-gateway.vicarius.cloud /AgentType=LocalAgent
+/SecretKey=jtSe0eJLBbHaNcSprzWiwXVwOmXXmwKWU8RTUD9B9Er1EoPySe9C9Ihfp2fIHll9eRvVoMnds4WkYtjGuSNhlPKTEce26cx48Do0Dzx5bBV4JMPK3fH3GcQnz9pRFuVdEpQAEpK8ELGIsokAPKIlt7Xomx37CCmN6LPC1h2taWrVye4rJxBzhLSgMgEf5QcrL4VeDKvRkDYAZ1MM2XvImVmSXFB6ZXI1Ns7qrGXnJPrvJbaknT1r9S7fkJbdheDG /Hostname=https://dotz-api-gateway.vicarius.cloud /AgentType=LocalAgent
+|d .config\
+|s
+code starship.toml
+neofetch
+|lear
+|d source\repos\redemptions\
+|mux
+|mux
+|y --version
+pyenv local
+|y --version
+|este
+|y --version
+|y --version
+|s
+|it status
+|it status
+|it status
+|y --version
+|y --version
+|y --version
+|y --version
+|y --version
+|y --version
+|y --version
+|este
+|sh tanio@192.168.50.1
+|it status
+python --version
+|este
+|este
+|it status
+|s
+|it status
+cd .config\
+|s
+mkdir starship
+mv starship.toml .config\starship\starship.toml
+mv starship.toml starship\starship.toml
+|s
+cd starship\
+|s
+|ode starship.toml 
+|s
+|s
+|d .config\starship\
+mv starship.toml ..\starship.toml
+|s
+|d ..
+|s
+rm starship
+rm -rf starship
+|s
+|s
+|ode starship.toml 
+|s
+|s
+|s
+|d source\repos\redemptions\
+|s
+|s
+|s
+|s
+|s
+|s
+git stutus
+|it status
+|it add .
+|it status
+|d ..
+|
+|s
+|d redemptions\
+|it status
+|d ..
+|s
+cd rede
+|d redemptions\
+dotnet --version
+|d ..
+|d platform-card-applications\
+|s
+|it stauts
+|d .
+|d ..
+|d redemptions\
+|it status
+|s
+|d Redemptions.API.Default
+|d ..
+|
+|d Redemptions.Application\
+|s
+|it status
+|d ..
+|d ..
+|d platform-card-applications\
+|s
+l
+|s
+|s
+|d source\repos\redemptions\
+|s
+|s
+|s
+|s
+|d ..
+|s
+|d platform-card-applications\
+|d ..
+|d redemptions
+|d Redemptions.Application\
+get pods
+|it status
+|ubectl get pods -n redemptions
+|it pull
+tese
+|d ..
+|d ..
+|d platform-card-applications\
+tesete
+|it status
+|it status
+|it status
+|it status
+|it status
+starship
+starship init powershell
+kubectl.exe get 
+|it stauts
+|d source\repos\platform-card-applications\
+|d ..
+|d ..
+|d ..
+|s
+cd AppData\
+|s
+|d ..
+cd c:
+|d ..
+|d ..
+|d ..
+|s
+cd Cmder\
+|s
+cd vendor\
+|s
+code clink.lua 
+|ode .
+|ode .
+|it status
+|s
+|s
+|s
+|s
+|d source\repos\platform-card-applications\
+|d source\repos\platform-card-applications\
+%LocalAppData%\clink\
+|ubectl get pods -n redemptions
+|it status
+|d source\repos\
+|d p
+|d platform-card-applications\
+|s
+|d source\repos\
+|d platform-card-applications\
+clink --version
+|link update
+|it stauts
+|d source\repos\partners-integration\
+|s
+|d PartnersIntegration.API.Private\
+|d ..
+|d ..
+|d platform-card-applications\
+|d ..
+|it staus
+|it status
+|d ..
+|s
+|d ..
+|s
+|it status
+|s
+|s
+|it status
+|d source\repos\partners-integration\
+git stats
+|it status
+|it status
+|s
+|d ..
+|d platform-card-applications\
+|it status
+|s
+|d source\repos\
+|it status
+|d platform-card-applications\
+|it status
+|d source\repos\partners-integration\
+|d ..
+|d platform-card-applications\
+chcp utf8
+|it status
+|d source\repos\partners-integration\
+|it status
+|it status
+|it status
+|d source\repos\partners-integration\
+|d PartnersIntegration.API.Private\
+|d ..
+|d ..
+|d platform-card-applications\
+|ubectl get pods -n redemptions
+|it stauts
+|d source\repos\partners-integration\
+|ubectl get pods -n redemptions
+|ubectl get pods -n partners-integration
+|it status
+cd source\repos\partners-integration\
+cd PartnersIntegration.API.Private\
+|d ..
+kubectl get pods -n partners-integration
+|ubectl get pods -n redemptions
+|d source\repos\platform-card-applications\
+|it status
+|d source\repos\platform-card-applications\
+|d ..
+|d Redemptions.Application\
+|s
+|it status
+|d redemptions\
+|s
+|s
+|s
+|s
+|pconfig
+|s
+|it status
+|s
+teste
+|s
+|s
+cd .config\starship\
+|s
+cd .config
+|s
+|ode starship.toml 
+code starship.toml 
+|s
+|d Documents\projects\
+|s
+|d ..
+|d ..
+|d ..
+cd Tanio\source\repos\platform-card-applications\
+|d ..
+|s
+cd redemptions\
+|s
+|d Redemptions.Application\
+|d ..
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|d node_active_invest\
+|d source\repos\platform-card-applications\
+|d ..
+cd Redemptions.Application\
+|d redemptions\Redemptions.Api.BbAdmin\
+|d Documents\projects\node_active_invest\
+|d Documents\projects\node_active_invest\
+|d source\repos\platform-card-applications\
+|d ..
+cd redemptions\
+|s
+|sh tanio@192.168.50.1
+|sh tanio@192.168.50.1
+|s
+cd Redemptions.Application\
+|it status
+|d ..
+|d core-segment-management\
+|s
+|d ..
+|s
+|d platform-card-applications\
+|s
+gloud --version
+gcloud --version
+|d ..
+|s
+|d ..
+|d ..
+cd Documents\projects\node-active-invest\
+|d Documents\projects\
+|s
+|d node_active_invest\
+|d ..
+|d ..
+|d ..
+|d ..
+|s
+cd Tanio\
+|s
+|d source\repos\platform-card-applications\
+cd Documents\projects\node_active_invest\
+|d ..
+|d ..
+|d ..
+|d source\repos\platform-card-applications\
+|d ..
+cd redemptions\Redemptions.Api.BbAdmin\
+cd Documents\projects\node-
+cd Documents\projects\node-active-invest\
+|s
+|it stauts
+|it status
+|d ..
+rename node-active-invest node-active-invest-2
+|s
+git clone git@github.com:taniorocha/node_active_invest.git
+|ode .
+cd node-active-invest\
+|s
+|d node_active_invest\
+|it status
+|ode .
+|d ..
+|ode .
+|d node_active_invest\
+|pm start
+|pm install
+|pm start
+npm start-mine
+|pm run start-mine
+|pm run start-mine
+|lear
+|pm start
+|pm start
+|pm run start-mine
+|pm start
+npm run start-mine
+|it status
+|it add .
+|it commit -m "Adding mine actives feature"
+|it config user.name "hortaniorocha"
+|it config user.email "hortanio@gmail.com"
+git commit -m "Adding mine actives feature"
+|it push
+|it stauts
+|it status
+|d ..
+|s
+rm -rf node-active-invest-2\
+|it status
+|s
+|d jenkins\
+|s
+|it staus
+|it status
+|ocker ps
+|s
+|d ..
+|s
+|d node_
+|d node_active_invest\
+cd Documents\projects\node_active_invest\
+|d ..
+|s
+|d ..
+|d ..
+|d source\repos\platform-card-applications\
+|it status
+|s
+$aws\
+|s
+ssh tanio@192.168.50.250
+|s
+cd source\repos\platform-card-applications\
+|ocker ps
+|ocker ps
+|ocker ps
+|ocker ps
+|ocker ps
+|ocker ps
+|s
+|ocker ps
+docker pull jellyfin/jellyfin
+|ocker ps
+|ocker images
+|ocker images
+|d Documents\projects\
+mkdir jellyfin
+cd je
+cd jellyfin\
+docker run -d --user=uid:gid --net=host jellyfin
+|ocker images
+docker run -d --user=uid:gid --net=host jellyfin/jellyfin
+docker run -d --user=tanio:123 --net=host jellyfin/jellyfin
+|ocker run -d --net=host jellyfin/jellyfin
+|ocker ps
+|ocker ps
+docker stop 75e2e7f59998
+docker rm 75e2e7f59998
+docker run -d -P 8096:8096 --net=host jellyfin/jellyfin
+docker run -d -P 8096 --net=host jellyfin/jellyfin
+|ocker run -d -p 8096:8096 --net=host jellyfin/jellyfin
+|ocker ps
+docker run -d -p 8096:8096 --net=host jellyfin/jellyfin
+|ocker ps
+dockr rm 7968d67656f3
+|ocker rm 7968d67656f3
+docker stop 7968d67656f3
+docker rm 7968d67656f3
+docker run -d --net=host jellyfin/jellyfin
+docker run -d -p 8096:30574 --net=host jellyfin/jellyfin
+docker run -d -p 8096:30574 jellyfin/jellyfin
+docker run -d -p 30574:8096 jellyfin/jellyfin
+|s
+|ocker run -d \
+docker run -d \
+docker run -d -p 8096:30574 --user uid:gid jellyfin/jellyfin
+docker run -d -p 8096:30574 --user teste:teste jellyfin/jellyfin
+docker run -d -p 8096:30574 --mount type=bind,source=/path/to/media,target=/media jellyfin/jellyfin
+mkdir media
+|ocker run -d -p 8096:30574 --mount type=bind,source=/media,target=/media jellyfin/jellyfin
+docker run -d -p 8096:30574 --mount type=bind,source=/media,target=/media jellyfin/jellyfin
+|ocker run -d -p 30574:8096 --mount type=bind,source=/media,target=/media jellyfin/jellyfin
+|ocker run -d -p 30574:8096 --mount type=bind,source=/media,target=/media jellyfin/jellyfin
+docker run -d -p 30574:8096 --mount type=bind,source=/media,target=/media jellyfin/jellyfin
+|sh ubuntu@168.138.229.206
+|sh ubuntu@144.22.255.135
+|sh ubuntu@144.22.255.135
+|sh pi@192.168.50.133
+|d source\repos\redemptions\
+|it pull
+|it status
+|it status
+|it status
+|it status
+|it status
+|it status
+|it status
+|it status
+git commit -m "Adding Factory and strategies with main methods"
+|it push
+|it status
+|it status
+|sh tanio@192.168.50.1
+ssh pi@192.168.50.240
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|ocker ps
+dockr ps -a
+|ocker ps -a
+|ocker ps -a
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.240
+|ing 192.168.50.240
+|sh pi@192.168.50.240
+|sh pi@192.168.50.240
+|sh pi@192.168.50.240
+|sh pi@192.168.50.240
+ssh pi@192.168.50.240
+|sh pi@192.168.50.128
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.128
+ping 192.168.50.240
+|ing 192.168.50.128
+|ing 192.168.50.133
+|ing 192.168.50.133
+ping 192.168.50.128
+|s
+|s
+|sh pi@192.168.50.128
+ssh pi@192.168.50.134
+|s
+|fconfig
+ifconfig
+|pconfig
+|pconfig /all
+|sh pi@192.168.50.128
+|s
+cd .kube\
+|s
+code .config
+code config
+kubectl config get-contexts
+|ubectl config use-context pi
+kubectl get --all-namespaces
+kubectl get all --all-namespaces
+kubectl get pods -n pi-hole
+|ubectl get pods -n tele-bot
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|sh pi@192.168.50.133
+|ing 192.168.50.133
+|ing 192.168.50.133
+|ing 192.168.50.240
+|ing 192.168.50.133
+|ing 192.168.50.240
+|ing 192.168.50.240
+ping 192.168.50.240
+ping 192.168.50.130
+|ing 192.168.50.129
+ping 192.168.50.238
+ping 192.168.50.129
+|ing 192.168.50.133
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+nano C:\\Users\\Tanio/.ssh/known_hosts
+code C:\\Users\\Tanio/.ssh/known_hosts
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|s
+kubectl config get-contexts
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|ubectl config use-context pi
+kubectl get pods -n nginx-proxy
+|ubectl get namespaces
+|ubectl get pods -n proxy-nginx
+kubectl delete pods proxy-nginx-554896869d-4c8wv -n proxy-nginx
+kubectl get pods -n proxy-nginx
+kubectl delete pods proxy-nginx-554896869d-rb7d4 -n proxy-nginx
+kubectl get pods -n rest-bet
+kubectl delete pods rest-bet-59ccf54bc7-lb5cv -n rest-bet
+kubectl delete pods --all -n css-cube
+kubectl get pods -n css-cube
+kubectl logs css-cube-f8497bf97-zv92d -n css-cube
+|ubectl get all -n css-cube
+|it status
+kubectl get all -n css-cube
+kubectl get all -n pi-hole
+kubectl get namespaces
+|s
+|s
+|s
+clink update
+|d Documents\projects\
+mkdir current-seller-list
+|d current-seller-list\
+|ode .
+|s
+|d ..
+git clone git@github.com:taniorocha/signalr-task-list.git
+|ode .
+cd signalr-task-list\
+cod e.
+|ode .
+|xplorer .
+|xplorer .
+|it status
+|it add .
+|it status
+|it status
+|it commit -m "Fixing logo icons"
+|it config user.email "hortanio@gmail.com"
+|it config user.name "hortaniorocha"
+git commit -m "Fixing logo icons"
+|it push
+|d Documents\projects\current-seller-list\
+|ode .
+cd Documents\projects\current-seller-list\
+|it status
+|d ..
+|it clone git@github.com:taniorocha/current-seller-list.git
+|d current-seller-list\
+|it stauts
+git clone git@github.com:taniorocha/current-seller-list.git
+|d current-seller-list\
+|it stauts
+|it add .
+|it commit -m "Adding initial code"
+|it config user.name "hortaniorocha"
+|it config user.email "hortanio@gmail.com"
+git commit -m "Adding initial code"
+|it push
+|d ..
+|d ..
+cd current-seller-list\
+|d ..
+rm -rf current-seller-list\
+|s
+cd node_
+|d node_active_invest\
+|it pull
+|it status
+|d .
+|s
+|s
+|d ..
+|s
+cd node-ty-natively\
+|ode .
+|d ..
+|s
+rename node-ty-natively node-ts-natively
+cd node-ts-natively\
+|ode .
+|pm start
+|pm start
+|pm start
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|d ..
+|d ..
+cd..
+|d Documents\projects\
+s
+|s
+rm -rf signalr-task-list\
+lsd
+|s
+mkdir py-test
+|d py-test\
+|ode .
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+py -m venv .venv
+venv/scripts/activate.bat
+rm -rf .venv
+|y -m venv ./venv
+|env\Scripts\activate.bat
+|y app.py
+|ip install -r requirements.txt
+|y app.py
+|y app.py
+|ip install -r requirements.txt
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+|y -m pip install --upgrade pip
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+py -m pip install --upgrade pip
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+|lack --line-length=100 --target-version=py311 --check .
+|lack --line-length=100 --target-version=py311 --check .
+|lack --line-length=100 --target-version=py311 --check .
+black
+|lack --line-length=100 --target-version=py311 --check .
+flake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude .venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+flake8 --max-line-length=100 --ignore=E402,W503,E712 --exclude venv
+|lack --line-length=100 --target-version=py311 --check .
+|lack --line-length=100 --target-version=py311 .
+black --line-length=100 --target-version=py311 .
+black --line-length=100 --target-version=py311 --check .
+|y app.py
+|ake
+make
+|ake lint
+|ake start
+|ake start
+|ake lint
+|ake install
+|ake start
+|ake lint
+|ake lint
+|ake lint
+|ake start
+|ake black-check
+|ake black-run
+|ake black-check
+|ake black-check
+make black-run
+make black-check
+|ake install
+|ake test
+|ake test
+|ake test
+|ake test
+python -m unittest .
+python -m unittest discover tests
+|ython -m unittest discover tests -p '*-test.py'
+|ython -m unittest discover ./tests -p '*-test.py'
+python -m unittest discover ./tests -p '*-test.py'
+python -m unittest discover tests -p '*-test.py'
+coverage
+|ake install
+|ake install
+|ake test
+|ake test
+|ake install
+|ake test
+|ake test
+|ake lint
+make lint
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|ake test
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+|y app.py
+cd Pr
+cd projects\
+|s
+cd Documents\p
+|d Documents\projects\
+|s
+git clone git@github.com:taniorocha/rn-delivery-tailwind-app.git 
+|d rn-delivery-tailwind-app\
+|s
+|ode .
+npx create-expo-app@latest rn-delivery-tailwind-app --template
+|s
+|d rn-delivery-tailwind-app\
+|s
+rm -rf node_modules\
+mv ./ ../
+|s
+|xplorer .
+|d ..
+|s
+|pm install
+|it status
+|it add .
+|it commit -m "Adding the project structure"
+|it config user.email "hortanio@gmail.com"
+|it config user.name "hortaniorocha"
+|it commit -m "Adding the project structure"
+git pushj
+|it push
+|s
+|ode .
+npm run reset-project
+|pm start
+|pm start
+|px expo install nativewind tailwindcss react-native-reanimated react-native-safe-area-context
+|pm start
+|pm start
+|pm start
+|pm start
+|d Documents\projects\rn-delivery-tailwind-app\
+|ode .
+npx start
+|px expo start
+|px expo start
+|px expo start
+|px expo start
+|px expo start
+|px expo install react-native-pager-view
+|px expo start
+|px expo start
+|px expo start
+|px expo install react-native-pager-view
+|px expo start
+|px expo start
+npm install react-native-pager-view 
+|px expo start
+yarn add react-native-pager-view 
+|pm start
+|px expo install react-native-pager-view
+npm install expo
+|px expo install react-native-pager-view
+|px expo install react-native-pager-view
+|pm uninstall expo
+npm uninstall expo
+|pm start
+|pm start
+|it status
+|it add .
+git commit -m "Adding the project structure"
+|it push
+|it push
+|it status
+|pm start
+json-sever watch
+npm install json-sever
+|pm install json-server
+|px json-server db.json
+|d Documents\projects\rn-delivery-tailwind-app\
+|ode .
+|d source\repos\redemptions\
+|it status
+|it status
+|it status
+|it status
+|it status
+|it status
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+kubectl get pods -n rewards
+gcloud auth login
+cd Documents\projects\Worker20\
+Worker_020_IndexadorProdutos.exe -p 
+Worker_020_IndexadorProdutos.exe -p 9142026
+Worker_020_IndexadorProdutos.exe -al
+Worker_020_IndexadorProdutos.exe -all
+cd Documents\projects
+|s
+|d rn-auth-app\
+|s
+|it status
+|ode .
+|s
+|pm start
+|pm start
+|pm start
+npm run expo start
+expo start
+npx expo start
+exie
+|pm install json-server
+|pm install json-server
+|px json-server db.json
+|d Documents\projects\rn-auth-app\
+|ode .
+|pm install
+|pm install
+|pm start
+|pm start
+npm uninstall json-server
+|pm start
+|pm start
+npm install
+|pm start
+npm install json-server
+|pm start
+|px json-server db.json
+|px json-server db.json
+|pm start
+npx expo install @react-native-async-storage/async-storage
+|pm start
+|it status
+|it add .
+git commit -m "Fixing the authentication"
+|it push
+|d source\repos\redemptions\
+|it status
+git commit -m "Fixing broken unit tests and some smells"
+|it push
+|ode .
+|it status
+|it add .
+git commit -m "Removing Uncheck coverage from contracts"
+|it push
+|it staus
+|it status
+|ode .
+|it status
+|it add .
+|it commit -m "Fixing unit tests"
+|it push
+git staus
+|it status
+|it checkout feature/163490
+|it pull
+git checkout feature163490
+git checkout feature/163490
+|it status
+|it pull
+|it status
+|it checkout feature/163100
+|s
+|it status
+|it add .
+git commit -m "Fixing unit tests"
+|it status
+|it push
+|it status
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it status
+|sl -d ubuntu
+|s
+|it stauts
+|ode .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/dharma-sqlserver
+|d dharma-sqlserver\
+|ode .
+|s
+|ublish.bat
+publish.bat
+|s
+|d Dharma.SQLServer\
+|s
+|d ..
+|s
+|d ..
+|s
+cd dharma-redis\
+|ode .
+|d ..
+|d dharma-sqlserver\
+|it status
+|it add .
+|it commit -m "Adding transaction mocks"
+|it status
+git reset HEAD~1 --soft
+|it status
+|it checkout feature/163100
+|it pull
+|it checkout feature/163100
+|it add .
+|it commit -m "Adding transaction mocks"
+|it push
+|y --version
+|sl -d ubuntu
+cd Documents\projects\rn-auth-app\
+|ode .
+gits tatus
+|it status
+npx json-server db.json
+|d source\repos\redemptions\
+|it status
+|it pull
+|ode .
+cd .nuget\
+explorer .
+|s
+cd packages\
+|s
+dharma.sql
+cd Dharma.SQLServer\
+|d ..
+|d ..
+d source\repos\dharma-sqlserver\
+cd source\repos\dharma-sqlserver\
+|s
+|ti status
+|it status
+exi
+|d source\repos\redemptions\
+|ode .
+|xplorer .
+|ode .
+|d ..
+|d core-segment-management\
+|ode .
+|it pull
+|d ..
+|d dharma-sqlserver\
+|ode .
+|d ..
+|d dharma-sqlserver\
+|d ..
+|it status
+|d dharma-sqlserver\
+|it status
+|it add .
+|it commit -m "Adding transaction mocks"
+git pusyh
+|it push
+|d ..
+|d redemptions
+|s
+explorer .
+|d ..
+|d dharma-sqlserver\
+|it status
+|it add .
+|it commit -m "Adding transaction mocks"
+|it push
+|it add .
+git commit -m "Adding transaction mocks"
+|it push
+|it status
+|ode .
+|it status
+|d ..
+|d core-segment-management\
+|ode .
+|d ..
+|d redemptions
+|it status
+|it add .
+|it pull
+|it status
+|it add .
+|it status
+|it commit -m "Fixing unit tests and smells"
+|it push
+|it push
+|it status
+|it add .
+|it status
+|it add .
+git tatus
+|it status
+|it add .
+|it status
+|it status
+|it add .
+|it status
+|it commit -m "Fixing unit tests and smells"
+git commit -m "Fixing unit tests and smells"
+|it push
+|it push
+cd source\repos\core-segment-management\
+|it status
+git checkout main
+|it pull
+|it status
+|it pull
+|it pull
+lscpu
+|sh pi@192.168.50.133
+|sh ubuntu@168.138.229.206
+|s
+|s
+|ocker ps
+docker pull aceberg/watchyourlan
+|ocker images
+docker run --name wyl --network="host" aceberg/watchyourlan
+|ocker run --name wyl -d --network="host" aceberg/watchyourlan
+|ocker ps
+|ocker ps -a
+docker rm ae6b4769953f
+docker run --name wyl -d --network="host" aceberg/watchyourlan
+|s
+|ocker ps
+docker describe 7fd6bac6edb5
+docker ls 7fd6bac6edb5
+|s
+|ocker ps
+docker stop 7fd6bac6edb5
+docker rm 7fd6bac6edb5
+|ocker run --name wyl -d --network host aceberg/watchyourlan
+|ocker ps
+docker logs 2ea61f59164f -f
+iptables -Liptables -L
+|ocker ps
+docker inspect 2ea61f59164f
+docker stop 2ea61f59164f
+docker rm 2ea61f59164f
+docker run --name wyl -d --network host --ip 127.0.0.1 aceberg/watchyourlan
+|s
+|ocker ps
+|ocker ps -a
+|ocker run --name wyl -d --network host aceberg/watchyourlan
+|s
+|pconfig
+|ocker ps
+|ocker stop c604bd2eb5be
+docker rm c604bd2eb5be
+docker run --name wyl -d -p 3000:8840 aceberg/watchyourlan
+|ocker ps
+docker inspect c604bd2eb5be
+|ocker ps
+docker inspect 6c5772a5a038
+|ocker ps
+|ocker ps
+docker stop c604bd2eb5be
+docker stop 6c5772a5a038
+docker rm 6c5772a5a038
+docker run --name wyl -d --network host aceberg/watchyourlan -n "http://192.168.50.143:8840"
+|pconfig
+|ocker ps
+docker stop 1285f678f643
+docker rm 1285f678f643
+docker run --name wyl -d --network host aceberg/watchyourlan -n "http://192.168.50.143:8850"
+|pconfig
+|s
+|ocker ps
+|pconfig
+|pconfig /all
+|ocker ps
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 532321dd68c8
+docker inspect 532321dd68c8
+|ocker ps
+docker stop 532321dd68c8
+docker rm 532321dd68c8
+docker run --name wyl -d --network host aceberg/watchyourlan
+docker-machine ip default
+|sh pi@192.168.50.133
+|s
+|it status
+|it status
+git add [0]
+|it status
+git add CoreSegmentManagement.API.Private\Controllers\v1\UsersController.cs
+|it status
+git reset CoreSegmentManagement.API.Private/Controllers/v1/UsersController.cs
+|it status
+|d ..
+|d redemptions
+|it status
+git commit -m "Adding Factory and strategies with more service abstraction"
+|it push
+|ode .
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it checkout master
+|it pull
+|it checkout feature/163100 
+|it merge master
+|it status
+|it add .
+|it commit -m "Merge with master"
+|it push
+|it status
+|it checkout feature/156731
+|it checkout master
+|it pull
+|it checkout feature/156731
+git merge master
+|it status
+git commit -m "Merge with master"
+|it push
+|it status
+|it status
+|it add .
+git commit -m "Correção de testes unitários"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+%LOCALAPPDATA%
+|it status
+|s
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|s
+|sh pi@192.168.50.133
+|s
+|sh pi@192.168.50.128
+ipconfig /all
+|d ..
+|d core-segment-management\
+|it pull
+|ode .
+dotnet test
+|it status
+|d ..
+|d redemptions
+git branch
+git checkout feature/163100 
+|it checkout feature/156731
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|d ..
+|d core-segment-management\
+|it pull
+|it pull
+kubectl por
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|ubectl get pods -n redemptions
+Install gke-gcloud-auth-plugin
+|ke-gcloud-auth-plugin --version
+kubectl --version
+kubectl version --client
+gke-gcloud-auth-plugin --version
+|cloud components install gke-gcloud-auth-plugin
+gcloud components install gke-gcloud-auth-plugin
+|ubectl get pods -n redemptions
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|it status
+|d ..
+|d redemptions
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+git pus
+|it push
+|it pull
+|it status
+|d ..
+|d redemptions
+|pconfig
+|pconfig
+|d ..
+|s
+cd signup
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/signup
+cd signup\
+|ode .
+|d ..
+|d redemptions
+|it pull
+|it pull
+git staus
+|it checkout feature/163100
+|it status
+|it pull
+|d ..
+|d redemptions
+|it checkout feature/156731
+|it pull
+|it status
+|it add .
+git commit -m "Fixing unit tests and fixing some smells"
+|it push
+git spuh
+|it push
+|it status
+|it add .
+git commit -m "Adding redis injection to projects needed"
+|it push
+|it status
+|it status
+|it status
+|it status
+|it status
+git checkout feature/16
+|it checkout feature/163100
+|it status
+|d ..
+|d platform-card-applications\
+|ode .
+|d ..
+|s
+cd platform-customers\
+|ode .
+|d ..
+|d platform-card-applications\
+|ode .
+|d ..
+|d redemptions
+|it status
+|d ..
+|d platform-card-applications\
+|ode .
+|d ..
+|d redemptions
+|it status
+git checkout feature/156731
+|it pull
+|it status
+|it pull
+|it checkout feature/163100
+|it status
+git merge feature/156731
+|it status
+|it status
+|it status
+git commit -m "Merging with master"
+|it status
+|it push
+|it status
+|it add .
+git commit -m "Replacing the Factory Create and fixing some smells"
+|it push
+|it status
+git commit -m "Fixing getUser method to check user blocked"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it add .
+|it commit -m "Fixing smells"
+|it push
+|it status
+|it add .
+git commit -m "Moving more methods from redemptions v2 to strategies"
+|it push
+|it status
+|it status
+|it status
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it add .
+|it commit -m "Fixing some smells"
+|it push
+|it status
+git commit -m "Fixing enum reverse types"
+|it push
+|it status
+|it commit -m "Fixing some smells"
+|it push
+|it status
+|it status
+|d ..
+|d platform-card-applications\
+|ode .
+|d ..
+|d redemptions
+|d Documents\projects\rn-delivery-tailwind-app\
+|ode .
+|xplorer .
+|ode .
+|ode .
+|it status
+git commit -m "Fixing project structure and first page"
+|it push
+npx expo install nativewind tailwindcss react-native-reanimated react-native-safe-area-context
+npx expo install react-native-pager-view
+|px expo start
+|px expo start
+clear
+|px expo start
+|px expo start
+npx expo start
+|it status
+|it add .
+git commit -m "Adding restaurant and food compponents"
+|it push
+|ode .
+|it status
+|d ..
+|s
+rn-auth-app
+mkdir rn-auth-app
+git clone git@github.com:taniorocha/rn-auth-app.git
+|d rn-auth-app\
+|s
+|it status
+|d ..
+|px create-expo-app@latest rn-auth-app --template
+|s
+|d rn-auth-app\
+npx create-expo-app@latest rn-auth-app --template
+|s
+explorer .
+|s
+|ode .
+npm install
+|pm start
+|pm start
+git staus
+|it status
+|it add .
+|it commit -m "Fixing structure and adding the pagination"
+git config user.name "hortaniorocha"
+git config user.email "hortanio@gmail.com"
+git commit -m "Fixing structure and adding the pagination"
+|it push
+|s
+|sh pi@192.168.50.133
+|sh pi@192.168.50.128
+|s
+|s
+|s
+|s
+|s
+|s
+|s
+|s
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh ubuntu@168.138.229.206
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+ssh pi@192.168.50.13
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.133
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|sh pi@192.168.50.133
+|sh ubuntu@168.138.229.206
+|sh ubuntu@168.138.229.206
+|sh ubuntu@168.138.229.206
+|sh ubuntu@168.138.229.206
+|sh ubuntu@168.138.229.206
+|s
+|sh ubuntu@144.22.255.135
+|sh ubuntu@144.22.255.135
+|sh ubuntu@144.22.255.135
+|sh ubuntu@168.138.229.206
+|sh pi@192.168.50.128
+ssh pi@192.168.50.133
+|sh pi@192.168.50.128
+|sh pi@192.168.50.128
+|ubectl port-forward redis-0 6379:6379
+|ubectl port-forward redis-0 6379:6379
+|d Documents\projects\
+mkdir mongodb
+|d mongodb\
+|ode .
+|ocker compose up -d
+|ocker compose down
+|d ..
+|d ..
+|d ..
+cd source\repos\
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/dharma-mongo
+|d dharma-mongo\
+|ode .
+|ode .
+|it pull
+|it checkout feature/163100
+|it status
+|it status
+|it add .
+|it commit -m "Adding virtuals to new methods and fixing some smells"
+|it status
+|it push
+|it status
+|it add .
+|it commit -m "Adding virtuals to new methods and fixing some smells"
+|it push
+|it status
+|it add .
+|it status
+git commit -m "Adding virtuals to new methods and fixing some smells"
+|it push
+|it status
+pip --version
+cd Documents\projects\rn-delivery-tailwind-app\
+tree
+|s
+|d ..
+|s
+cd node_active_invest\
+npm start
+script -c tmux /dev/null
+|mux
+|mux
+|mux
+cd c:\Windows\System32\
+bash.exe
+cd c:\Windows\System32\
+|ash.exe
+wsl -d ubuntu
+bash.exe
+|mux
+tmux
+|mux
+tmx
+|mux
+|mux
+tmux
+run tmux source ~/.tmux.conf
+|d source\repos\redemptions\
+|d ..
+|s
+cd techfin-smartpay\
+|ode .
+|d ..
+|d redemptions
+|it status
+|it add .
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it pull
+|it status
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it push
+|it status
+git add .g
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|it status
+|sh pi@192.168.50.128
+kubectl config use-context pi
+|ubectl get pods -n tele-bot
+kubectl logs telecron-job-28996500-spgrd -n tele-bot
+kubectl config use-context gke_dotz-uat_southamerica-east1-a_cluster-uat 
+|s
+|sh tanio@192.168.50.1
+|s
+|it status
+|it pull
+|d ..
+|d dharma-sqlserver\
+|ode .
+|it status
+|it add .
+|it commit -m "Correção de smells"
+|it push
+|d ..
+|d redemptions
+|it pull
+|it status
+gti status
+|it pull
+git sttus
+|it status
+|it status
+|it add .
+|it status
+|it add .
+git commit -m "Correção de smells"
+|it push
+|it pull
+|it pull
+|it status
+|it push
+|it add .
+|it status
+git commit -m "Fixing some strategies todos and unit test smells"
+|it push
+|ubectl port-forward redis-0 6379:6379
+|sh ubuntu@168.138.229.206
+|s
+ping mongodb://uat_mongodb:NzHWeDUgRtFXbj6sX2@uat-mongodb.dotz.com.br:27017/?authSource=admin
+|ode .
+|it status
+|it add .
+|it status
+|it commit -m "Fixing unit tests coverage and some smells"
+|it push
+|it status
+|d ..
+cd core-segment-management\
+|ode .
+py --version
+|ode .
+|it pull
+|sl -d ubuntu
+|s
+|sl -d ubuntu
+|d ..
+|d redemptions
+|it status
+|it status
+|it add .
+git commit -m "Fixing unit tests coverage and some smells"
+|it push
+|s
+|it status
+|d ..
+cd dharma-mongo\
+|it status
+|it add .
+|it commit -m "Fixing virtual on mongo entity id
+|it push
+|d ..
+c redemptions\
+|d redemptions
+|it status
+|it add .
+git commit -m "Fixing virtual on mongo entity id
+|it status
+|it push
+|it stauts
+|it status
+|it add .
+git commit -m "Increasing code coverage and fixing some smells"
+|it push
+git stauts
+|it status
+|it commit -m "Fixing smells"
+|it push
+|it status
+|d .
+|d ..
+git clone dotzmkt@vs-ssh.visualstudio.com:v3/dotzmkt/Dotz/web-platform
+cd web-platform\
+|ode .
+tmix
+|mux
+|it status
+|d ..
+|d redemptions
+|it status
+|it add .
+git commit -m "Increasing strategies coverage and fixing smells"
+|it status
+|it push
+cod .
+|ode .
+|it status
+|it add .
+git commit -m "Fixing some smells"
+|it push
+|it push
+|it status
+|it pull
+git checkout feature/163100-without-contract-mocks
+|it status
+|it add .
+git commit -m "test"
+|it push
+git checkout feature/163100
+|it status
+|it add .
+|d ..
+cd dharma-sqlserver\
+|ode .
+|it status
+|it pull
+|d ..
+|d redemptions
+|it status
+|ode .
+|it status
+|it add .
+|it add .
+|it status
+git commit -m "Increasing fraud prevention coverate and smells"
+|it push
+|it status
+|ode .
+|it status
+|it status
+|it add .
+git commit -m "Adding strategies methods descriptions"
+|it status
+|it push
+tmuix
+|mux
+wsl -d ubuntu
+|s
+tmux
+vim
+|it status
+msysgit
+tree
+|s
+|s
+|d ..
+|d ..
+|d ..
+cd repos
+|d source\repos\redemptions\
+|otnet run
+dotnet run Redemptions.API.Default\
+|d Redemptions.API.Default
+|otnet run
+cd Redemptions.API.Default
+|otnet debug
+|d ..
+cd Redemptions.Worker.GetOrdersToTrack\
+|otnet run
+cd TesteApp\
+|otnet run
+dotnet run
+dotnet debug
+|s
+|s
+|mux
+tmux
+|d redemptions
+|d source\repos\redemptions\
+|it status
+|it pull
+git checkout feature/163100-without-contract-mocks
+|it status
+|it pull
+git merge feature/163100
+|it status
+|it status
+|otnet build
+|it status
+|it add .
+git commit -m "merge 163100"
+|it push
+git checkout feature/163100
+|d ..
+|d partners-integration\
+git checkout master
+|it pull
+|ode .
+|it status
+|d ..
+|d redemptions
+|it status
+|it add .
+|it commit -m "Fixing Tasks of fraudPrevention repository"
+|it push
+|it status
+|it status
+|it add .
+git commit -m "Fixing Tasks of fraudPrevention repository"
+git push]
+|it push
+|it status
+|ocker ps
+|it status
+|d ..
+|d ..
+|d ..
+|d source\repos\redemptions\
+cd ~
+cd ~/
+cd ./~
+|d ..
+|d ..
+|d ..
+|d Documents\projects\
+|s
+|s
+|d jenkins\
+|s
+|d ..
+|s
+cd mongodb\
+|s
+|d ..
+|s
+|s
+|d py-test\
+|s
+|ode .
+|d ..
+|s
+cd rn-auth-app\
+|it status
+|d ..
+cd rn-delivery-tailwind-app\
+|it status
+|d ..
+|s
+|s
+cd project-1\
+|s
+|ode .
+|s
+|d ..
+|s
+|m -rf project-1\
+rm -rf project-1\
+|s
+cd jenkins\
+|s
+|s
+docker images
+nano docker-compose.yml
+|s
+|ocker compose up -d
+|ocker ps
+docker exec -it jenkins
+docker exec -it jenkins bashy
+docker exec -it jenkins bash
+|s
+|ocker network ls
+|ocker compose down
+docker network ls
+|s
+docker ps -a
+|ano docker-compose.yml 
+mkdir jenkins_home
+|s
+|d jenkins_home\
+|s
+|d ..
+|ocker compose up -d
+|s
+|d jenkins_home\
+|s
+|d ..
+|s
+|s
+|ocker ps
+|s
+cd jenkins_home\
+|s
+cd secrets\
+sl
+|s
+cat initialAdminPassword 
+|d ..
+|s
+|d ..
+|d ..
+|s
+|s
+cd py-test
+|s
+|env\Scripts\activate.bat
+|s
+|ode .
+|ode .
+make test
+py app.py
+|s
+py install
+|ake install
+make start
+py src\request_data.py 
+|s
+|ocker ps
+cd .
+|d ..
+cd jenkins
+docker compose down
+|d ..
+|s
+mkdir postgres
+cd p
+cd postgres\
+|s
+cp ..\jenkins\docker-compose.yml ./docker-compose.yml
+|s
+nano docker-compose.yml 
+touch init.sql
+|s
+|at docker-compose.yml 
+|s
+cat init.sql
+|s
+|ocker ps
+docker compose up -d
+|s
+|ocker ps
+cat docker-compose.yml 
+|arlequin
+|s
+|s
+|s
+|arlekin
+|ip install harlekin
+pip install harlekin
+pip install harlequin
+harlekin
+|arlequin
+|s
+|d Documents\projects\
+|s
+|s
+cd py-test\
+|s
+|at Makefile 
+|at Makefile 
+docker ps
+|d ..
+cd harlequin\
+|s
+cat Makefile 
+cat C:\Users\Tanio\AppData\Local\harlequin\
+cat C:\Users\Tanio\AppData\Local\harlequin\config.toml
+|arlequin
+|s
+|s
+|s
+|d Documents\projects\
+|s
+mkdir harlequin
+|s
+cd harlequin\
+py -m venv ./venv
+venv\Scripts\activate.bat
+|ano requirements.txt
+|s
+cat requirements.txt 
+pip install -r requirements.txt
+|s
+|s
+pip install harlequin[postgres]
+nano requirements.txt
+|s
+pip install -r requirements.txt 
+harlequin --adapter postgres
+|s
+|s
+|ano Makefile
+|ake connect-local
+|at Makefile 
+|s
+|s
+|at Makefile 
+|s
+|ake connect-local
+|at Makefile 
+|ake connect-local
+nano Makefile
+|ake connect-local
+make bosta
+cp ..\py-test\Makefile ./Makefilebosta
+|s
+cat Makefile
+|s
+rm -rf Makefile
+rn Makefilebosta Makefile
+rename Makefilebosta Makefile
+|s
+|ano Makefile 
+make install
+make connect
+|s
+cat Makefile 
+|ano Makefile 
+|ano Makefile 
+la
+|ake connect-local
+|s
+nano Makefile 
+|ake connect-local
+|ode .
+|ake connect-local
+|ake connect-local
+|ake connect-local
+harlequin --help
+|ake connect-local
+|ake connect-local
+|ake connect-local
+|ake connect-local
+make connect-local
+harlequin --configure
+harlequin --config
+|s
+|s
+|d venv\
+|s
+|d Lib\
+|s
+|d site-packages\
+|s
+harlequin_postgres
+|s
+|d harlequin
+|s
+|s
+|d ..
+|s
+ccd ..
+|d ..
+|d ..
+|d ..
+|s
+|s
+harlequin
+harlequin --profile=bosta
+harlequin --profile=postgres-local
+cd venv\
+|s
+cd Include\
+|s
+|d ..
+cd Lib\
+|s
+cd site-packages\
+|s
+cd harlequin
+|s
+cat config.toml
+harlequin --config-path
+|s
+cat config.py
+|s
+|d ..
+|s
+cd harlequin_postgres
+|s
+|d ..
+|d ..
+|s
+|d ..
+|s
+|d ..
+|s
+ping 1.1.1.1 -f
+|s
+|s
+|s
+ping 192.168.50.133
+|s
+|s
+|ubectl port-forward redis-0 6379:6379
+|pconfig
+ssh tanio@192.168.50.1
+|sh tanio@192.168.50.120
+|sh tanio@192.168.50.120
+ssh -v
+telnet -an
+|etstat -an
+|etstat -an
+|etstat -an
+|etstat -an
+|etstat -an
+|etstat -an
+|etstat -an
+|etstat -ab | find ":22"
+netstat -ab | find ":22"
+|ubectl port-forward redis-0 6379:6379
+kubectl get pods -n tele-bot
+|pconfig
+|etstat -an
+|s
+|s
+|ubectl get pods -n redemptions
+|d source\repos\redemptions\
+|s
+|s
+|s
+|d source\repos\redemptions\
+|ode .
+|pconfig
+|ode .
+|d ..
+|s
+cd TesteApp\
+|ode .
+|s
+|d ..
+|d redemptions
+|s
+|ode .
+|d ..
+cd platform-card-applications\
+|ode .
+harlequin
+|d ..
+cd redemptions
+|it status
+|s
+|otnet build
+|s
+|s
+|pconfig
+|sh tanio@192.168.50.120
+|sh tanio@192.168.50.120
+ssh 53 tanio@192.168.50.120
+ssh -p 53 tanio@192.168.50.120
+|sh -p 135 tanio@192.168.50.120
+ssh -p 135 tanio@192.168.50.120
+|sh -p 445 tanio@192.168.50.120
+ssh -p 445 tanio@192.168.50.120
+|d ..
+cd C:\Users\Tanio\Documents\projects\
+|s
+|s
+|s
+ipconfig
+netstat -an
+|pconfig
+ipconfig
+|s
+|d Documents\projects\
+|s
+|s
+|s
+|s
+|s
+|s
+ipconfig
+ssh ubuntu@168.138.229.206
+netstat -an
+ssh tanio@192.168.50.120
+|s
+ssh tanio@141.148.180.84
+ssh root@157.245.184.86
+ssh pi@192.168.50.128
+|it status
+|d source\repos\redemptions\
+|it status
+|s
+|it pull
+|it status
+|it status
+git add .
+git commit -m "Fixing smells"
+git push
+|it status
+|it pull
+ping taniorocha.com.br
+ssh ubuntu@144.22.255.135
+ssh tnioa@141.148.180.84
+|ubectl port-forward redis-0 6379:6379
+kubectl port-forward redis-0 6379:6379
+kbuectl get pods -n redemptions
+kubectl get pods -n redemptions
+cd source\repos\redemptions\
+git pul
+git pu
+|it pull
+|it checkout riskcenter-final
+git checkout .
+git checkout riskcenter-final
+git status
+|ode .
+cd
+|d ..
+git clone git@ssh.dev.azure.com:v3/dotzmkt/Dotz/giffty-supplier
+cd giffty-supplier\
+|ode .
+cd ..
+cd partners-integration\
+git pull
+|ode .
+code .
+|otnet build
+git status
+git pull
+dotnet build
+cd Documents\projects\
+ls
+git clone git@github.com:taniorocha/my-cmder-terminal.git
+cd my-cmder-terminal\
