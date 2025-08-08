@@ -1,7 +1,9 @@
 {
-    "background": "#2f3233",
+    "background": "#2F3233",
     "commandline": "cmd.exe /k C:\\Cmder\\vendor\\init.bat",
-    "font": {
+    "font": 
+    {
+        "face": "FiraCode Nerd Font",
         "size": 10
     },
     "guid": "{1b198ade-4ab4-4321-a283-009f2b47ab51}",
@@ -9,4 +11,4 @@
     "name": "Cmd com whey",
     "opacity": 90,
     "startingDirectory": "%USERPROFILE%"
-}
+},
