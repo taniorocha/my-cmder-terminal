@@ -37,6 +37,8 @@
     "csharp.experimental.debug.hotReload": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "git.blame.editorDecoration.enabled": true,
+	"editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+	"editor.fontLigatures": false,
     "workbench.colorTheme": "Visual Studio 2019 Dark",
     "workbench.colorCustomizations": {
         "actionBar.toggledBackground": "#383a49",
