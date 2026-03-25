@@ -86,6 +86,7 @@
 		"editorLineNumber.foreground": "#6e7681",
 		"editorOverviewRuler.border": "#010409",
 		"editorWidget.background": "#202020",
+		"editorInfo.foreground": "#6A9955"
 		"errorForeground": "#f85149",
 		"focusBorder": "#0078d4",
 		"foreground": "#cccccc",
